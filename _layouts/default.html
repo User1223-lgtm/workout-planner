@@ -12,7 +12,7 @@
   <meta property="og:image" content="{{ '/images/app-icon.png' | absolute_url }}">
   <link rel="icon" type="image/png" href="{{ '/images/favicon.png' | relative_url }}">
   <link rel="apple-touch-icon" href="{{ '/images/app-icon.png' | relative_url }}">
-  <link rel="stylesheet" href="{{ '/assets/css/docs.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/docs.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 </head>
 <body>
   <input type="checkbox" id="nav-toggle" class="nav-toggle" autocomplete="off">
