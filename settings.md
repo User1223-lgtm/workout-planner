@@ -42,7 +42,7 @@ With Pro:
 
 The footer reminds what Pro gives: importing and exporting data, creating workouts from scratch, editing workouts and 1 free AI workout every month. See [Workout Planner Pro](pro.html).
 
-## Data <span class="badge new">1.0.1</span>
+## Data
 
 | Option | Effect |
 |---|---|

@@ -50,7 +50,7 @@ Your workouts, folders, history, settings and unused AI workout purchases are de
 No. Exports contain folders and workouts only.
 
 ### How do I delete my history?
-From version 1.0.1: **Settings › Data › Delete Workout History**. It deletes the whole history (not your workouts). Deleting a single entry isn't possible.
+**Settings › Data › Delete Workout History**. It deletes the whole history (not your workouts). Deleting a single entry isn't possible.
 
 ### I deleted a workout by mistake. Can I get it back?
 No, deleting can't be undone. If you had exported it, import the file again.

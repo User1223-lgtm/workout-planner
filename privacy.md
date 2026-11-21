@@ -21,7 +21,7 @@ Your workouts, folders, workout history, statistics and settings are stored only
 You stay in control of this data:
 
 - You can delete workouts and folders at any time in the app.
-- From version 1.0.1, **Settings › Delete Workout History** deletes your whole workout history and statistics.
+- **Settings › Delete Workout History** deletes your whole workout history and statistics.
 - Deleting the app deletes all its data from your device.
 
 If you back up your device with iCloud or a computer, this data can be included in that backup, which is managed by Apple and by you, not by the developer.

@@ -31,7 +31,7 @@ Touch and hold the Home Screen, tap **Edit › Add Widget**, then search for **W
 Your workouts are stored on your device only. Deleting the app deletes them. With Pro, you can export your workouts and folders to a file and import them again later. [More](import-export.html)
 
 ### How do I delete my workout history?
-From version 1.0.1: **Settings › Data › Delete Workout History**. Your saved workouts are kept. [More](history-and-statistics.html#delete-your-history)
+**Settings › Data › Delete Workout History**. Your saved workouts are kept. [More](history-and-statistics.html#delete-your-history)
 
 ### I don't hear the timer beeps.
 Check **Settings › Sounds**, and turn up the media volume during the workout. Silent mode doesn't block the beeps. [More](timer.html#sounds)

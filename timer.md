@@ -104,4 +104,4 @@ Tap **Done** to close it. The workout is saved in [Me › Workouts](history-and-
 
 - Only one workout can run at a time. Links from widgets are ignored while the timer is open.
 - If the app is closed by force during a workout, the leftover Live Activity is removed the next time you open the app, and that workout is not saved.
-- On iPad, the timer uses the larger screen: the ring grows up to a much larger size. <span class="badge new">1.0.1</span>
+- The ring and the countdown use all the free space of the screen, on iPhone and on iPad.

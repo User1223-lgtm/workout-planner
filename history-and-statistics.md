@@ -89,9 +89,9 @@ When you have at least one workout, a **share** button appears at the top right 
 
 The app draws a dark image (1080 pixels wide, PNG named *My Workout Stats.png*) titled **My Training Stats**, with the app logo and the line *Plan and time your workouts with Workout Planner*, plus a link to the app on the App Store. Then the iOS share sheet opens: Messages, WhatsApp, Instagram, Save Image, AirDrop…
 
-## Delete your history <span class="badge new">1.0.1</span> {#delete-your-history}
+## Delete your history
 
-From version 1.0.1, **Settings › Data › Delete Workout History** deletes every completed workout: the calendar and all the statistics of the Me tab are emptied, and the Stats widget goes back to zero.
+**Settings › Data › Delete Workout History** deletes every completed workout: the calendar and all the statistics of the Me tab are emptied, and the Stats widget goes back to zero.
 
 - Your **saved workouts are not touched**: only the history is deleted.
 - The app asks for a confirmation first. **This can't be undone.**

@@ -376,12 +376,20 @@ blockquote.pro-note { border-left-color: var(--gold-2); background: rgba(255, 17
 
 /* Small screens */
 
+.brand { white-space: nowrap; min-width: 0; }
+.brand span { overflow: hidden; text-overflow: ellipsis; }
+.menu-button span { transition: transform 0.2s ease, opacity 0.2s ease; }
+
 @media (max-width: 900px) {
   .menu-button { display: flex; }
+  .brand { font-size: 17px; }
+  .store-button { padding: 6px 12px; font-size: 13px; }
+
+  /* Full-screen menu under the top bar */
   .sidebar {
-    display: none;
+    display: block;
     position: fixed;
-    top: var(--topbar-height);
+    top: 0;
     left: 0;
     right: 0;
     bottom: 0;
@@ -390,14 +398,27 @@ blockquote.pro-note { border-left-color: var(--gold-2); background: rgba(255, 17
     z-index: 15;
     background: var(--bg);
     border-right: 0;
-    padding: 16px 20px 60px;
+    padding: calc(var(--topbar-height) + 20px) 20px 48px;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-8px);
+    transition: opacity 0.2s ease, transform 0.2s ease, visibility 0.2s;
   }
-  .nav-toggle:checked ~ .layout .sidebar { display: block; }
+  .nav-toggle:checked ~ .layout .sidebar { opacity: 1; visibility: visible; transform: none; }
+  body:has(.nav-toggle:checked) { overflow: hidden; }
+  .sidebar a { padding: 10px 12px; font-size: 17px; }
+
+  /* The menu button becomes a cross while the menu is open */
+  .nav-toggle:checked ~ .topbar .menu-button span:nth-child(1) { transform: translateY(6px) rotate(45deg); }
+  .nav-toggle:checked ~ .topbar .menu-button span:nth-child(2) { opacity: 0; }
+  .nav-toggle:checked ~ .topbar .menu-button span:nth-child(3) { transform: translateY(-6px) rotate(-45deg); }
+
   .content { padding: 24px 20px 40px; }
   h1 { font-size: 32px; }
   h2 { font-size: 24px; }
   .screen { width: 46%; max-width: 220px; }
   .screen.right { float: none; margin: 0 auto 20px; }
   .hero img { width: 72px; height: 72px; border-radius: 17px; }
-  .store-button { padding: 6px 12px; }
 }
