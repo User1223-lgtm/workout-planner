@@ -8,9 +8,23 @@ description: Every option of the Settings tab of Workout Planner — appearance,
 
 <p class="lead">Every option of the Settings tab, from top to bottom.</p>
 
-## Style
+## Overview
 
-<figure class="screen right"><img src="images/settings.jpg" alt="The Settings tab"><figcaption>Settings</figcaption></figure>
+**Settings** is the third tab, with the gear icon at the bottom of the screen. It gathers the options of the whole app in five sections:
+
+| Section | What you find there |
+|---|---|
+| [Style](#style) | The look of the app: automatic, light or dark |
+| [Permissions](#permissions) | The daily reminders and the timer sounds |
+| [Pro](#pro) | Workout Planner Pro: unlock, restore or manage your subscription |
+| [Data](#data) | Deleting your workout history |
+| [About](#about) | Rating the app, the website, help, privacy policy, terms of use and version |
+
+<div class="screens">
+  <figure class="screen"><img src="images/settings.jpg" alt="The Settings tab"><figcaption>The Settings tab</figcaption></figure>
+</div>
+
+## Style
 
 | Option | Choices | Effect |
 |---|---|---|

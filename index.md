@@ -16,7 +16,7 @@ Workout Planner is an interval timer and workout planner for iPhone and iPad. Yo
 
 Everything stays on your device: no account, no ads, no tracking.
 
-<p><a class="button" href="{{ site.app_store_url }}">Download on the App Store</a> &nbsp; <a class="button secondary" href="getting-started.html">Get started</a></p>
+<p class="buttons"><a class="button" href="{{ site.app_store_url }}">Download on the App Store</a> <a class="button secondary" href="getting-started.html">Get started</a></p>
 
 <div class="screens">
   <figure class="screen"><img src="images/my-workouts.jpg" alt="My Workouts: folders and workouts"><figcaption>My Workouts</figcaption></figure>

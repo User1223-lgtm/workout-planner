@@ -342,6 +342,7 @@ blockquote.pro-note { border-left-color: var(--gold-2); background: rgba(255, 17
 }
 .button:hover { text-decoration: none; opacity: 0.9; }
 .button.secondary { background: var(--bg-soft); color: var(--text); }
+.buttons { display: flex; flex-wrap: wrap; gap: 12px; }
 
 /* Pager and footer */
 
