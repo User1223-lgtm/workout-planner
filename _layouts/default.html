@@ -78,10 +78,14 @@
     // Mobile menu: it opens at the top, and the page comes back to the same place when it closes.
     (function () {
       var toggle = document.getElementById("nav-toggle");
+      var button = document.querySelector(".menu-button");
       var savedY = 0;
+      // Read the position before the menu opens (once it is open, the page is shorter)
+      button.addEventListener("click", function () {
+        if (!toggle.checked) { savedY = window.scrollY; }
+      });
       toggle.addEventListener("change", function () {
-        if (toggle.checked) { savedY = window.scrollY; window.scrollTo(0, 0); }
-        else { window.scrollTo(0, savedY); }
+        window.scrollTo(0, toggle.checked ? 0 : savedY);
       });
       // Back button: the menu is closed again
       window.addEventListener("pageshow", function (event) {
