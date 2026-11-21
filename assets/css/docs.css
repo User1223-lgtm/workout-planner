@@ -385,29 +385,20 @@ blockquote.pro-note { border-left-color: var(--gold-2); background: rgba(255, 17
   .brand { font-size: 17px; }
   .store-button { padding: 6px 12px; font-size: 13px; }
 
-  /* Full-screen menu under the top bar */
+  /* While it is open, the menu takes the place of the page. It is part of the
+     page, so it scrolls like the page (no scroll area inside a fixed layer). */
+  .layout { display: block; }
   .sidebar {
-    display: block;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
+    display: none;
+    position: static;
     width: auto;
     height: auto;
-    z-index: 15;
-    background: var(--bg);
+    overflow: visible;
     border-right: 0;
-    padding: calc(var(--topbar-height) + 20px) 20px 48px;
-    overflow-y: auto;
-    overscroll-behavior: contain;
-    opacity: 0;
-    visibility: hidden;
-    transform: translateY(-8px);
-    transition: opacity 0.2s ease, transform 0.2s ease, visibility 0.2s;
+    padding: 16px 20px 48px;
   }
-  .nav-toggle:checked ~ .layout .sidebar { opacity: 1; visibility: visible; transform: none; }
-  body:has(.nav-toggle:checked) { overflow: hidden; }
+  .nav-toggle:checked ~ .layout .sidebar { display: block; animation: menu-in 0.2s ease; }
+  .nav-toggle:checked ~ .layout .content { display: none; }
   .sidebar a { padding: 10px 12px; font-size: 17px; }
 
   /* The menu button becomes a cross while the menu is open */
@@ -421,4 +412,9 @@ blockquote.pro-note { border-left-color: var(--gold-2); background: rgba(255, 17
   .screen { width: 46%; max-width: 220px; }
   .screen.right { float: none; margin: 0 auto 20px; }
   .hero img { width: 72px; height: 72px; border-radius: 17px; }
+}
+
+@keyframes menu-in {
+  from { opacity: 0; transform: translateY(-8px); }
+  to { opacity: 1; transform: none; }
 }

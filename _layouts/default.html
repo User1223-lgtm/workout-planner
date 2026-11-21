@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="{{ '/assets/css/docs.css' | relative_url }}">
 </head>
 <body>
-  <input type="checkbox" id="nav-toggle" class="nav-toggle">
+  <input type="checkbox" id="nav-toggle" class="nav-toggle" autocomplete="off">
 
   <header class="topbar">
     <label for="nav-toggle" class="menu-button" aria-label="Show or hide the menu">
@@ -74,5 +74,20 @@
       </footer>
     </main>
   </div>
+  <script>
+    // Mobile menu: it opens at the top, and the page comes back to the same place when it closes.
+    (function () {
+      var toggle = document.getElementById("nav-toggle");
+      var savedY = 0;
+      toggle.addEventListener("change", function () {
+        if (toggle.checked) { savedY = window.scrollY; window.scrollTo(0, 0); }
+        else { window.scrollTo(0, savedY); }
+      });
+      // Back button: the menu is closed again
+      window.addEventListener("pageshow", function (event) {
+        if (event.persisted) { toggle.checked = false; }
+      });
+    })();
+  </script>
 </body>
 </html>
