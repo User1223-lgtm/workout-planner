@@ -8,9 +8,9 @@ description: Every option of the Settings tab of Workout Planner — appearance,
 
 <p class="lead">Every option of the Settings tab, from top to bottom.</p>
 
-<figure class="screen right"><img src="images/settings.jpg" alt="The Settings tab"><figcaption>Settings</figcaption></figure>
-
 ## Style
+
+<figure class="screen right"><img src="images/settings.jpg" alt="The Settings tab"><figcaption>Settings</figcaption></figure>
 
 | Option | Choices | Effect |
 |---|---|---|

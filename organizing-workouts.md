@@ -15,9 +15,9 @@ On this page
 {:toc}
 </div>
 
-<figure class="screen right"><img src="images/my-workouts.jpg" alt="My Workouts with 4 folders and 3 workouts"><figcaption>The root of My Workouts</figcaption></figure>
-
 ## The library
+
+<figure class="screen right"><img src="images/my-workouts.jpg" alt="My Workouts with 4 folders and 3 workouts"><figcaption>The root of My Workouts</figcaption></figure>
 
 The top level of the tab is called **My Workouts**. It can contain:
 
