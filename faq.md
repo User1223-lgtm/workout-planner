@@ -32,6 +32,15 @@ The app is in English.
 ### Which devices are supported?
 iPhone and iPad with iOS / iPadOS 26.5 or later. AI workouts need a device with Apple Intelligence.
 
+### How can I rate the app or leave a review?
+Open **Settings › Rate on the App Store**: the App Store opens on the review page of Workout Planner. Thank you, it really helps!
+
+### Why does the app ask me to rate it?
+After your 1st, 5th and 15th completed workouts, the app may show Apple's rating window on the **Workout Complete!** screen. iOS shows it at most three times a year, and you can close it with **Not Now**. To never see it, turn off **In-App Ratings & Reviews** in the iPhone Settings › **App Store**.
+
+### Is there a website?
+Yes, this one: the complete documentation of the app. Open it from **Settings › Website**.
+
 ## Your data
 
 ### Where are my workouts stored?

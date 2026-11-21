@@ -100,6 +100,8 @@ When the last step ends, the **Workout Complete!** screen shows the workout name
 
 Tap **Done** to close it. The workout is saved in [Me › Workouts](history-and-statistics.html) with its time, planned duration and exercises, and your statistics and widgets are updated.
 
+After your 1st, 5th and 15th completed workouts, Apple's rating window may appear over this screen to ask what you think of the app. Rating is optional: tap **Not Now** to close it. iOS decides whether it appears and shows it at most three times a year. You can rate the app at any time in **Settings › Rate on the App Store**.
+
 ## Good to know
 
 - Only one workout can run at a time. Links from widgets are ignored while the timer is open.

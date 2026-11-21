@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Settings
-description: Every option of the Settings tab of Workout Planner — appearance, notifications, sounds, Pro, data and about.
+description: Every option of the Settings tab of Workout Planner — appearance, notifications, sounds, Pro, data, rating and links.
 ---
 
 # Settings
@@ -54,6 +54,8 @@ See [History & Statistics](history-and-statistics.html#delete-your-history).
 
 | Option | Opens |
 |---|---|
+| **Rate on the App Store** | The App Store, on the page where you rate Workout Planner and write a review |
+| **Website** | This website, with the complete documentation |
 | **Help & Support** | The [Support](support.html) page |
 | **Privacy Policy** | The [Privacy Policy](privacy.html) |
 | **Terms of Use** | Apple's standard End User License Agreement (EULA) |
