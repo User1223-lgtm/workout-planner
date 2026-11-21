@@ -1,0 +1,52 @@
+- title: Start Here
+  items:
+    - title: Home
+      url: /
+    - title: Getting Started
+      url: /getting-started.html
+
+- title: Your Workouts
+  items:
+    - title: Organizing Workouts
+      url: /organizing-workouts.html
+    - title: Creating & Editing Workouts
+      url: /creating-workouts.html
+    - title: AI Workouts
+      url: /ai-workouts.html
+    - title: Running a Workout
+      url: /timer.html
+
+- title: Your Progress
+  items:
+    - title: History & Statistics
+      url: /history-and-statistics.html
+
+- title: On Your iPhone
+  items:
+    - title: Widgets & Live Activity
+      url: /widgets.html
+    - title: Notifications
+      url: /notifications.html
+
+- title: Pro & Files
+  items:
+    - title: Workout Planner Pro
+      url: /pro.html
+    - title: Import, Export & File Format
+      url: /import-export.html
+
+- title: Reference
+  items:
+    - title: Settings
+      url: /settings.html
+    - title: FAQ & Troubleshooting
+      url: /faq.html
+    - title: Release Notes
+      url: /release-notes.html
+
+- title: Help
+  items:
+    - title: Support
+      url: /support.html
+    - title: Privacy Policy
+      url: /privacy.html

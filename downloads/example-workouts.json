@@ -1,0 +1,696 @@
+{
+  "format": "workout-planner",
+  "version": 1,
+  "folders": [
+    {
+      "name": "HIIT & Cardio",
+      "folders": [],
+      "workouts": [
+        {
+          "name": "Tabata Burner",
+          "description": "Two Tabata blocks: 8 rounds of 20 s all-out, 10 s rest.",
+          "blocks": [
+            {
+              "type": "exercise",
+              "name": "Warm-up",
+              "description": "Jog in place and arm circles.",
+              "duration": 120
+            },
+            {
+              "type": "group",
+              "name": "Tabata 1",
+              "repetitions": 8,
+              "blocks": [
+                {
+                  "type": "exercise",
+                  "name": "Burpees",
+                  "duration": 20
+                },
+                {
+                  "type": "rest",
+                  "duration": 10
+                }
+              ]
+            },
+            {
+              "type": "rest",
+              "name": "Recovery",
+              "duration": 60
+            },
+            {
+              "type": "group",
+              "name": "Tabata 2",
+              "repetitions": 8,
+              "blocks": [
+                {
+                  "type": "exercise",
+                  "name": "Mountain Climbers",
+                  "duration": 20
+                },
+                {
+                  "type": "rest",
+                  "duration": 10
+                }
+              ]
+            },
+            {
+              "type": "exercise",
+              "name": "Cool-down",
+              "description": "Slow walk and deep breathing.",
+              "duration": 90
+            }
+          ]
+        },
+        {
+          "name": "HIIT 20",
+          "description": "20 minutes, full body, no equipment.",
+          "blocks": [
+            {
+              "type": "exercise",
+              "name": "Warm-up",
+              "description": "Jumping jacks, hip circles.",
+              "duration": 180
+            },
+            {
+              "type": "group",
+              "name": "Circuit",
+              "repetitions": 4,
+              "blocks": [
+                {
+                  "type": "exercise",
+                  "name": "Jump Squats",
+                  "duration": 40
+                },
+                {
+                  "type": "rest",
+                  "duration": 20
+                },
+                {
+                  "type": "exercise",
+                  "name": "Push-ups",
+                  "duration": 40
+                },
+                {
+                  "type": "rest",
+                  "duration": 20
+                },
+                {
+                  "type": "exercise",
+                  "name": "High Knees",
+                  "duration": 40
+                },
+                {
+                  "type": "rest",
+                  "duration": 20
+                },
+                {
+                  "type": "group",
+                  "name": "Core Finisher",
+                  "repetitions": 2,
+                  "blocks": [
+                    {
+                      "type": "exercise",
+                      "name": "Plank",
+                      "duration": 20
+                    },
+                    {
+                      "type": "rest",
+                      "duration": 10
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "exercise",
+              "name": "Stretching",
+              "duration": 120
+            }
+          ]
+        },
+        {
+          "name": "EMOM 12",
+          "description": "Every minute on the minute: 40 s of work, rest the remaining 20 s.",
+          "blocks": [
+            {
+              "type": "group",
+              "name": "EMOM",
+              "repetitions": 4,
+              "blocks": [
+                {
+                  "type": "exercise",
+                  "name": "Kettlebell Swings",
+                  "duration": 40
+                },
+                {
+                  "type": "rest",
+                  "duration": 20
+                },
+                {
+                  "type": "exercise",
+                  "name": "Lunges",
+                  "description": "Alternate legs.",
+                  "duration": 40
+                },
+                {
+                  "type": "rest",
+                  "duration": 20
+                },
+                {
+                  "type": "exercise",
+                  "name": "Burpees",
+                  "duration": 40
+                },
+                {
+                  "type": "rest",
+                  "duration": 20
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Strength",
+      "folders": [],
+      "workouts": [
+        {
+          "name": "Upper Body Push",
+          "description": "Chest, shoulders and triceps with dumbbells.",
+          "blocks": [
+            {
+              "type": "exercise",
+              "name": "Warm-up",
+              "duration": 300,
+              "description": "Band pull-aparts, light push-ups."
+            },
+            {
+              "type": "group",
+              "name": "Bench Press",
+              "repetitions": 5,
+              "blocks": [
+                {
+                  "type": "exercise",
+                  "name": "Dumbbell Bench Press",
+                  "duration": 45,
+                  "description": "10 reps, controlled."
+                },
+                {
+                  "type": "rest",
+                  "duration": 120
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "Incline Press",
+              "repetitions": 4,
+              "blocks": [
+                {
+                  "type": "exercise",
+                  "name": "Incline Dumbbell Press",
+                  "duration": 45,
+                  "description": "10 reps."
+                },
+                {
+                  "type": "rest",
+                  "duration": 90
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "Superset",
+              "repetitions": 4,
+              "blocks": [
+                {
+                  "type": "exercise",
+                  "name": "Shoulder Press",
+                  "duration": 40,
+                  "description": "12 reps."
+                },
+                {
+                  "type": "exercise",
+                  "name": "Triceps Dips",
+                  "duration": 40,
+                  "description": "Max reps."
+                },
+                {
+                  "type": "rest",
+                  "duration": 90
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "Finisher",
+              "repetitions": 3,
+              "blocks": [
+                {
+                  "type": "exercise",
+                  "name": "Push-ups",
+                  "duration": 40
+                },
+                {
+                  "type": "rest",
+                  "duration": 40
+                }
+              ]
+            },
+            {
+              "type": "exercise",
+              "name": "Stretching",
+              "duration": 300,
+              "description": "Chest, shoulders and triceps."
+            }
+          ]
+        },
+        {
+          "name": "Leg Day",
+          "description": "Squats, deadlifts and lunges.",
+          "blocks": [
+            {
+              "type": "exercise",
+              "name": "Warm-up",
+              "duration": 600,
+              "description": "Bike or rowing machine."
+            },
+            {
+              "type": "group",
+              "name": "Back Squat",
+              "repetitions": 5,
+              "blocks": [
+                {
+                  "type": "exercise",
+                  "name": "Back Squat",
+                  "duration": 45,
+                  "description": "5 reps, heavy."
+                },
+                {
+                  "type": "rest",
+                  "duration": 150
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "Romanian Deadlift",
+              "repetitions": 4,
+              "blocks": [
+                {
+                  "type": "exercise",
+                  "name": "Romanian Deadlift",
+                  "duration": 45,
+                  "description": "10 reps."
+                },
+                {
+                  "type": "rest",
+                  "duration": 90
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "Walking Lunges",
+              "repetitions": 4,
+              "blocks": [
+                {
+                  "type": "exercise",
+                  "name": "Walking Lunges",
+                  "duration": 45,
+                  "description": "20 steps."
+                },
+                {
+                  "type": "rest",
+                  "duration": 60
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "Calves",
+              "repetitions": 3,
+              "blocks": [
+                {
+                  "type": "exercise",
+                  "name": "Calf Raises",
+                  "duration": 40,
+                  "description": "15 reps."
+                },
+                {
+                  "type": "rest",
+                  "duration": 40
+                }
+              ]
+            },
+            {
+              "type": "exercise",
+              "name": "Stretching",
+              "duration": 420,
+              "description": "Hamstrings, quads and hips."
+            }
+          ]
+        },
+        {
+          "name": "Core Crusher",
+          "description": "10 minutes of abs, no equipment.",
+          "blocks": [
+            {
+              "type": "group",
+              "name": "Abs Circuit",
+              "repetitions": 3,
+              "blocks": [
+                {
+                  "type": "exercise",
+                  "name": "Crunches",
+                  "duration": 40
+                },
+                {
+                  "type": "rest",
+                  "duration": 15
+                },
+                {
+                  "type": "exercise",
+                  "name": "Russian Twists",
+                  "duration": 40
+                },
+                {
+                  "type": "rest",
+                  "duration": 15
+                },
+                {
+                  "type": "exercise",
+                  "name": "Side Plank",
+                  "description": "20 s each side.",
+                  "duration": 40
+                },
+                {
+                  "type": "rest",
+                  "duration": 15
+                },
+                {
+                  "type": "exercise",
+                  "name": "Leg Raises",
+                  "duration": 40
+                },
+                {
+                  "type": "rest",
+                  "duration": 15
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Combat Sports",
+      "folders": [],
+      "workouts": [
+        {
+          "name": "Boxing Rounds",
+          "description": "10 rounds of 3 minutes, 1 minute rest, like a real fight.",
+          "blocks": [
+            {
+              "type": "exercise",
+              "name": "Jump Rope",
+              "duration": 600,
+              "description": "Light and fast."
+            },
+            {
+              "type": "group",
+              "name": "Rounds",
+              "repetitions": 10,
+              "blocks": [
+                {
+                  "type": "exercise",
+                  "name": "Heavy Bag",
+                  "duration": 180,
+                  "description": "Jab, cross, hook. Keep your guard up."
+                },
+                {
+                  "type": "rest",
+                  "duration": 60
+                }
+              ]
+            },
+            {
+              "type": "exercise",
+              "name": "Shadow Boxing",
+              "duration": 300,
+              "description": "Slow, focus on technique."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mobility & Yoga",
+      "folders": [],
+      "workouts": [
+        {
+          "name": "Morning Mobility",
+          "description": "Wake up your joints in 10 minutes.",
+          "blocks": [
+            {
+              "type": "exercise",
+              "name": "Neck Rolls",
+              "duration": 45
+            },
+            {
+              "type": "exercise",
+              "name": "Cat-Cow",
+              "duration": 60
+            },
+            {
+              "type": "exercise",
+              "name": "World's Greatest Stretch",
+              "description": "30 s each side.",
+              "duration": 60
+            },
+            {
+              "type": "exercise",
+              "name": "Hip Circles",
+              "duration": 45
+            },
+            {
+              "type": "group",
+              "name": "Flow",
+              "repetitions": 3,
+              "blocks": [
+                {
+                  "type": "exercise",
+                  "name": "Downward Dog",
+                  "duration": 40
+                },
+                {
+                  "type": "exercise",
+                  "name": "Cobra",
+                  "duration": 30
+                },
+                {
+                  "type": "exercise",
+                  "name": "Child's Pose",
+                  "duration": 40
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Evening Yoga Flow",
+          "description": "Slow flow to relax before sleep.",
+          "blocks": [
+            {
+              "type": "exercise",
+              "name": "Breathing",
+              "description": "Inhale 4 s, exhale 6 s.",
+              "duration": 120
+            },
+            {
+              "type": "group",
+              "name": "Sun Salutation",
+              "repetitions": 4,
+              "blocks": [
+                {
+                  "type": "exercise",
+                  "name": "Sun Salutation A",
+                  "duration": 90
+                },
+                {
+                  "type": "rest",
+                  "duration": 15
+                }
+              ]
+            },
+            {
+              "type": "exercise",
+              "name": "Pigeon Pose",
+              "description": "1 minute each side.",
+              "duration": 120
+            },
+            {
+              "type": "exercise",
+              "name": "Savasana",
+              "duration": 180
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "workouts": [
+    {
+      "name": "7-Minute Workout",
+      "description": "The classic: 12 exercises, 30 s each, 10 s rest.",
+      "blocks": [
+        {
+          "type": "exercise",
+          "name": "Jumping Jacks",
+          "duration": 30
+        },
+        {
+          "type": "rest",
+          "duration": 10
+        },
+        {
+          "type": "exercise",
+          "name": "Wall Sit",
+          "duration": 30
+        },
+        {
+          "type": "rest",
+          "duration": 10
+        },
+        {
+          "type": "exercise",
+          "name": "Push-ups",
+          "duration": 30
+        },
+        {
+          "type": "rest",
+          "duration": 10
+        },
+        {
+          "type": "exercise",
+          "name": "Crunches",
+          "duration": 30
+        },
+        {
+          "type": "rest",
+          "duration": 10
+        },
+        {
+          "type": "exercise",
+          "name": "Step-ups",
+          "duration": 30
+        },
+        {
+          "type": "rest",
+          "duration": 10
+        },
+        {
+          "type": "exercise",
+          "name": "Squats",
+          "duration": 30
+        },
+        {
+          "type": "rest",
+          "duration": 10
+        },
+        {
+          "type": "exercise",
+          "name": "Triceps Dips",
+          "duration": 30
+        },
+        {
+          "type": "rest",
+          "duration": 10
+        },
+        {
+          "type": "exercise",
+          "name": "Plank",
+          "duration": 30
+        },
+        {
+          "type": "rest",
+          "duration": 10
+        },
+        {
+          "type": "exercise",
+          "name": "High Knees",
+          "duration": 30
+        },
+        {
+          "type": "rest",
+          "duration": 10
+        },
+        {
+          "type": "exercise",
+          "name": "Lunges",
+          "duration": 30
+        },
+        {
+          "type": "rest",
+          "duration": 10
+        },
+        {
+          "type": "exercise",
+          "name": "Push-up and Rotation",
+          "duration": 30
+        },
+        {
+          "type": "rest",
+          "duration": 10
+        },
+        {
+          "type": "exercise",
+          "name": "Side Plank",
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "name": "Running Intervals",
+      "description": "Speed work: 10 fast intervals, then a tempo run.",
+      "blocks": [
+        {
+          "type": "exercise",
+          "name": "Easy Jog",
+          "duration": 900,
+          "description": "Conversational pace."
+        },
+        {
+          "type": "group",
+          "name": "Intervals",
+          "repetitions": 10,
+          "blocks": [
+            {
+              "type": "exercise",
+              "name": "Fast Run",
+              "duration": 90,
+              "description": "5 km race pace."
+            },
+            {
+              "type": "rest",
+              "duration": 60,
+              "name": "Walk"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "name": "Tempo Run",
+          "duration": 600,
+          "description": "Comfortably hard."
+        },
+        {
+          "type": "exercise",
+          "name": "Cool-down Jog",
+          "duration": 600
+        }
+      ]
+    }
+  ]
+}

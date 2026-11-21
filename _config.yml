@@ -1,0 +1,22 @@
+title: Workout Planner
+description: Plan and time your workouts. Complete documentation, support and privacy policy for the Workout Planner app for iPhone and iPad.
+lang: en
+author: Thomas Servant-Plagne
+app_store_url: https://apps.apple.com/app/id6836314200
+contact_email: ser.pla.thomas@gmail.com
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  toc_levels: 2..3
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README.md

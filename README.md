@@ -1,8 +1,10 @@
 # Workout Planner
 
-Workout Planner is an iPhone and iPad app to plan, time and track your workouts.
+Plan and time your workouts on iPhone and iPad.
 
-- [Help & Support](support.md)
-- [Privacy Policy](privacy.md)
+- **Documentation:** https://user1223-lgtm.github.io/workout-planner/
+- **Support:** https://user1223-lgtm.github.io/workout-planner/support.html
+- **Privacy Policy:** https://user1223-lgtm.github.io/workout-planner/privacy.html
+- **App Store:** https://apps.apple.com/app/id6836314200
 
-Contact: [ser.pla.thomas@gmail.com](mailto:ser.pla.thomas@gmail.com)
+Contact: ser.pla.thomas@gmail.com
