@@ -38,15 +38,16 @@ Start a workout in one tap.
 |---|---|
 | Small | 1 workout |
 | Medium | 3 workouts |
+| Large | 8 workouts |
 | Lock Screen (rectangular) | 1 workout |
 
 **Tap a workout** in the widget: Workout Planner opens and the timer starts right away. (If a workout is already running, the tap only opens the app.)
 
 ### Choose the workouts
 
-**Edit Widget › Workouts** lets you pick the workouts to show (1 for small and Lock Screen widgets, up to 3 for medium). Each one is listed with its folder and duration, for example *Strength › Week 1 · 25 min*.
+**Edit Widget** shows one box per place of the widget: **Workout 1** for the small and Lock Screen widgets, **Workout 1** to **Workout 3** for the medium widget, **Workout 1** to **Workout 8** for the large one. Choose a workout in each box. Workouts are listed with their folder and duration, for example *Strength › Week 1 · 25 min*. Empty boxes are skipped.
 
-If you leave the list **empty**, the widget shows **your last workouts**: the ones you started most recently, completed by your newest workouts. Workouts that last 0 seconds are never shown.
+If you leave **every box empty**, the widget shows **your last workouts**: the ones you started most recently, completed by your newest workouts. Workouts that last 0 seconds are never shown.
 
 If you have no workout yet, the widget says *No workouts yet — Create one in the app*.
 
@@ -72,13 +73,13 @@ The Lock Screen widgets show the statistic chosen last on the Home Screen widget
 
 The progress bars of your goals of **Me › Goals**.
 
-**Edit Widget › Goals**: choose which goals the widget shows, in your order (up to 2 for the small widget, 3 for the medium, 6 for the large, 1 on the Lock Screen). Leave it empty to show your first goals, in the order of Me › Goals.
+**Edit Widget** shows one box per place of the widget: **Goal 1** and **Goal 2** for the small widget, **Goal 1** to **Goal 3** for the medium, **Goal 1** to **Goal 8** for the large, **Goal 1** on the Lock Screen. Choose a goal in each box; empty boxes are skipped. Leave every box empty to show your first goals, in the order of Me › Goals.
 
 | Size | Shows |
 |---|---|
 | Small | 2 goals: period, progress (*2 / 3*) and bar |
 | Medium | 3 goals, with what each one counts |
-| Large | 6 goals |
+| Large | 8 goals |
 | Lock Screen, rectangular | 1 goal |
 
 A reached goal shows a green check. The widget starts again at 0 by itself when a new week, month or year begins, and follows the dates of custom goals. With no goal yet, it says *Add a goal in Me › Goals*.
