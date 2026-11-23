@@ -70,14 +70,16 @@ The Lock Screen widgets show the statistic chosen last on the Home Screen widget
 
 ## Goals
 
-The progress bars of your goals of **Me › Goals**, in the same order.
+The progress bars of your goals of **Me › Goals**.
+
+**Edit Widget › Goals**: choose which goals the widget shows, in your order (up to 2 for the small widget, 3 for the medium, 6 for the large, 1 on the Lock Screen). Leave it empty to show your first goals, in the order of Me › Goals.
 
 | Size | Shows |
 |---|---|
-| Small | The first 2 goals: period, progress (*2 / 3*) and bar |
-| Medium | The first 3 goals, with what each one counts |
-| Large | The first 6 goals |
-| Lock Screen, rectangular | The first goal |
+| Small | 2 goals: period, progress (*2 / 3*) and bar |
+| Medium | 3 goals, with what each one counts |
+| Large | 6 goals |
+| Lock Screen, rectangular | 1 goal |
 
 A reached goal shows a green check. The widget starts again at 0 by itself when a new week, month or year begins, and follows the dates of custom goals. With no goal yet, it says *Add a goal in Me › Goals*.
 
