@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Widgets & Live Activity
-description: Workout Planner widgets for the Home Screen and Lock Screen — Quick Start and Stats — and the Live Activity in the Dynamic Island.
+description: Workout Planner widgets for the Home Screen and Lock Screen — Quick Start, Stats and Goals — and the Live Activity in the Dynamic Island.
 ---
 
 # Widgets & Live Activity
@@ -69,6 +69,21 @@ The widget switches to the new week or month by itself at midnight.
 - **Workouts This Month** · **Training Time This Month** · **Exercises This Month**
 
 Tap the widget to open the **Me** tab.
+
+## Goals
+
+The progress bars of your goals of **Me › Goals**, in the same order.
+
+| Size | Shows |
+|---|---|
+| Small | The first 2 goals: period, progress (*2 / 3*) and bar |
+| Medium | The first 3 goals, with what each one counts |
+| Large | The first 6 goals |
+| Lock Screen, rectangular | The first goal |
+
+A reached goal shows a green check. The widget starts again at 0 by itself when a new week, month or year begins. With no goal yet, it says *Add a goal in Me › Goals*.
+
+Tap the widget to open **Me › Goals**. See [Goals](history-and-statistics.html#goals-your-targets).
 
 ## When widgets update
 

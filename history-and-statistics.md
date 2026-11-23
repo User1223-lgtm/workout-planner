@@ -1,12 +1,12 @@
 ---
 layout: default
 title: History & Statistics
-description: The Me tab of Workout Planner — calendar of completed workouts, weekly and monthly charts, averages, totals, sharing your stats, Apple Health and deleting the history.
+description: The Me tab of Workout Planner — calendar of completed workouts, weekly and monthly charts, averages, totals, goals, sharing your stats, Apple Health and deleting the history.
 ---
 
 # History & Statistics
 
-<p class="lead">The Me tab keeps every workout you complete, and turns them into a calendar, charts and numbers.</p>
+<p class="lead">The Me tab keeps every workout you complete, and turns them into a calendar, charts, numbers and goals.</p>
 
 <div class="toc" markdown="1">
 On this page
@@ -76,6 +76,26 @@ The total of the period is shown at the top right of each chart.
 ### Totals
 
 **Total Training Time**, **Total Exercises** and **Total Workouts**, since your first workout.
+
+## Goals: your targets
+
+**Me › Goals** lists your goals as cards. A goal is a number to reach **every week, month or year**:
+
+| Count | Example |
+|---|---|
+| **Workouts** | 3 workouts every week |
+| **Time** | 8 hours of training every month |
+| **Exercises** | 5,000 exercises every year |
+
+Each card shows the goal, the period (*This Week · 4 days left*), the progress (*2 / 3*) and a **progress bar**, with what is left (*1 more workout*). When the goal is reached, the bar turns green with a check and **Goal reached**.
+
+- **Add a goal**: tap **+** at the top right (or **Add a Goal** when the list is empty), choose what to count, the period and the number, then tap **Add**. The number goes up by 1 workout, 15 minutes or 10 exercises.
+- **Edit a goal**: tap its card. **Delete** it from the editor, or touch and hold the card › **Delete Goal**.
+- You can have as many goals as you want, for example a weekly one and a yearly one.
+
+Goals don't record anything new: the progress is counted from your **completed workouts** (the same data as the calendar and the statistics), for the **current** week (Monday to Sunday or Sunday to Saturday, as set on your device), month or year. At the start of each new period, the progress starts again at 0. If you delete workouts from the history, the progress goes down too.
+
+The **Goals** widget shows the same progress bars on your Home Screen and Lock Screen. See [Widgets](widgets.html#goals).
 
 ## Share your stats
 

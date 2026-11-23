@@ -33,7 +33,7 @@ Everything stays on your device: no account, no ads, no tracking.
   <a class="card" href="creating-workouts.html"><strong>Creating &amp; Editing</strong><span>Templates, workouts from scratch, exercises, rests and nested groups.</span></a>
   <a class="card" href="ai-workouts.html"><strong>AI Workouts</strong><span>Answer 7 questions and Apple Intelligence plans a workout for you.</span></a>
   <a class="card" href="timer.html"><strong>Running a Workout</strong><span>The timer screen, controls, beeps, the Lock Screen and the end of a workout.</span></a>
-  <a class="card" href="history-and-statistics.html"><strong>History &amp; Statistics</strong><span>Calendar of your workouts, weekly and monthly charts, averages and totals.</span></a>
+  <a class="card" href="history-and-statistics.html"><strong>History &amp; Statistics</strong><span>Calendar of your workouts, weekly and monthly charts, averages, totals and goals.</span></a>
   <a class="card" href="widgets.html"><strong>Widgets &amp; Live Activity</strong><span>Quick Start and Stats widgets, the Dynamic Island and the Lock Screen.</span></a>
   <a class="card" href="notifications.html"><strong>Notifications</strong><span>Daily reminders and the monthly free AI workout reminder.</span></a>
   <a class="card" href="pro.html"><strong>Workout Planner Pro</strong><span>What Pro unlocks, plans, cancelling, restoring purchases.</span></a>
@@ -51,7 +51,8 @@ Everything stays on your device: no account, no ads, no tracking.
 | AI workouts made by Apple Intelligence | Pay per workout | **1 free every month**, then pay per workout |
 | Full-screen timer with beeps, haptics and Live Activity | ✓ | ✓ |
 | History calendar, charts, averages, totals, shareable stats images | ✓ | ✓ |
-| Quick Start and Stats widgets | ✓ | ✓ |
+| Goals with progress bars (workouts, time or exercises per week, month or year) | ✓ | ✓ |
+| Quick Start, Stats and Goals widgets | ✓ | ✓ |
 | Completed workouts saved in **Apple Health** | ✓ | ✓ |
 | Create a workout **from scratch** | – | ✓ |
 | **Edit** any workout (blocks, durations, groups) | – | ✓ |
