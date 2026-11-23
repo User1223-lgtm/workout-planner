@@ -17,7 +17,7 @@ description: Every option of the Settings tab of Workout Planner — appearance,
 | [Style](#style) | The look of the app: automatic, light or dark |
 | [Permissions](#permissions) | The daily reminders, the timer sounds and Apple Health |
 | [Pro](#pro) | Workout Planner Pro: unlock, restore or manage your subscription |
-| [Data](#data) | Deleting your workout history |
+| [Data](#data) | Deleting your workouts, your history or your goals |
 | [About](#about) | Rating the app, the website, help, privacy policy, terms of use and version |
 
 <div class="screens">
@@ -61,7 +61,9 @@ The footer reminds what Pro gives: importing and exporting data, creating workou
 
 | Option | Effect |
 |---|---|
+| **Delete All Workouts** | Deletes every workout and folder of **My Workouts**. Your history and your goals are kept. Asks for a confirmation; can't be undone. Greyed out when My Workouts is empty. |
 | **Delete Workout History** | Deletes every completed workout: the calendar and the statistics of the **Me** tab are emptied. Your saved workouts are kept. Asks for a confirmation; can't be undone. Greyed out when the history is empty. |
+| **Delete All Goals** | Deletes every goal of **Me › Goals**. Your workouts and your history are kept. Asks for a confirmation; can't be undone. Greyed out when there is no goal. |
 
 See [History & Statistics](history-and-statistics.html#delete-your-history).
 
