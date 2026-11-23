@@ -6,7 +6,7 @@ description: Workout Planner does not collect, store or share any personal data.
 
 # Privacy Policy — Workout Planner
 
-Effective date: November 18, 2026 · Last updated: November 21, 2026
+Effective date: November 18, 2026 · Last updated: November 23, 2026
 
 Workout Planner (“the app”) is developed by Thomas Servant-Plagne. This policy explains what happens to your information when you use the app.
 

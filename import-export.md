@@ -82,7 +82,6 @@ Files are plain **JSON** (UTF-8). All **durations are in seconds**. Every file i
 ```json
 {
   "format": "workout-planner",
-  "version": 1,
   "folders": [
     {
       "name": "Strength",
@@ -103,7 +102,6 @@ Files are plain **JSON** (UTF-8). All **durations are in seconds**. Every file i
 | Key | Type | Required | Meaning |
 |---|---|---|---|
 | `format` | text | no | Always `"workout-planner"` in exported files. Ignored when importing. |
-| `version` | number | no | Always `1` in exported files. Ignored when importing. |
 | `folders` | list of [folders](#a-folder) | at least one of the two | Folders to create in the current folder. |
 | `workouts` | list of [workouts](#a-workout) | at least one of the two | Workouts to create in the current folder. |
 
@@ -112,7 +110,6 @@ The export of one workout looks like this:
 ```json
 {
   "format": "workout-planner",
-  "version": 1,
   "folders": [],
   "workouts": [
     { "name": "Tabata Burner", "description": "A short and intense Tabata session.", "blocks": [ ... ] }
