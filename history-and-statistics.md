@@ -88,7 +88,7 @@ The total of the period is shown at the top right of each chart.
 | **Exercises** | 5,000 exercises every year |
 | Any of them, **Custom** | 20 workouts from December 1 to January 15 |
 
-Each card shows the goal (*3 workouts*), its period in a small label at the top right (*This Week*, or *Dec 1 – Jan 15* for custom dates), a **progress bar** and the progress (*2 / 3*). When the goal is reached, the bar and the numbers turn green with a check.
+Each card shows the goal (*3 workouts*), its period in a small label at the top right (*This Week*, or *01/12/2026 – 15/01/2027* for custom dates), a **progress bar** and the progress (*2 / 3*). When the goal is reached, the bar and the numbers turn green with a check.
 
 - **Add a goal**: tap **+** at the top right (or **Add a Goal** when the list is empty), choose what to count, the period (**Week**, **Month**, **Year** or **Custom**) and the number, then tap **Add**. The number is chosen with **wheels**, to the unit: 1 to 999 workouts, 1 to 9,999 exercises, or hours and minutes of training.
 - **Custom** shows **From** and **To**: the goal counts the workouts completed between these two days, both included. After the last day, the card keeps its final result.

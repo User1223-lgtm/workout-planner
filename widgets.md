@@ -64,7 +64,7 @@ Your progress at a glance.
 The widget switches to the new week or month by itself at midnight.
 
 - **Edit Widget › Period**: **This Week** (default) or **This Month**.
-- **Tap the widget** (small and medium) to show the next statistic: **Workouts** → **Training Time** → **Exercises** → back to Workouts. Three dots at the top show which one you see, like pages. The widget remembers it.
+- **Tap the widget** (small and medium) to show the next statistic: **Workouts** → **Training Time** → **Exercises** → back to Workouts. Three dots at the bottom, in the middle, show which one you see, like pages. The widget remembers it.
 
 The Lock Screen widgets show the statistic chosen last on the Home Screen widget of the same period.
 
