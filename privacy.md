@@ -26,6 +26,12 @@ You stay in control of this data:
 
 If you back up your device with iCloud or a computer, this data can be included in that backup, which is managed by Apple and by you, not by the developer.
 
+## Apple Health
+
+If you turn on **Settings › Apple Health**, the app saves your completed workouts (start, end and name of the workout) in Apple’s Health app, on your device. To keep Health in step with your history, the app reads only the workouts it saved itself, and deletes those you delete from your history. It doesn’t read any other health data.
+
+Health data is never sent to the developer or to any server, and is never used for advertising or shared with third parties. You can turn the option off at any time, and manage or delete this data in the Health app.
+
 ## AI workouts
 
 Workouts created “With AI” are generated on your device by Apple Intelligence. Your answers to the questionnaire are not sent to the developer or to any server.

@@ -43,6 +43,9 @@ Yes, this one: the complete documentation of the app. Open it from **Settings �
 
 ## Your data
 
+### Are my workouts saved in Apple Health?
+Yes, if you turn on **Settings › Permissions › Apple Health**. Every completed workout is added to the Health app, and the workouts you delete from the history are deleted there too. See [Apple Health](history-and-statistics.html#apple-health).
+
 ### Where are my workouts stored?
 Only on your device. The developer has no access to them. See the [Privacy Policy](privacy.html).
 

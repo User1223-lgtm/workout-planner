@@ -52,6 +52,7 @@ Everything stays on your device: no account, no ads, no tracking.
 | Full-screen timer with beeps, haptics and Live Activity | ✓ | ✓ |
 | History calendar, charts, averages, totals, shareable stats images | ✓ | ✓ |
 | Quick Start and Stats widgets | ✓ | ✓ |
+| Completed workouts saved in **Apple Health** | ✓ | ✓ |
 | Create a workout **from scratch** | – | ✓ |
 | **Edit** any workout (blocks, durations, groups) | – | ✓ |
 | **Import** workouts and folders from `.json` files | – | ✓ |

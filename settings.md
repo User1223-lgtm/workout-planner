@@ -15,7 +15,7 @@ description: Every option of the Settings tab of Workout Planner — appearance,
 | Section | What you find there |
 |---|---|
 | [Style](#style) | The look of the app: automatic, light or dark |
-| [Permissions](#permissions) | The daily reminders and the timer sounds |
+| [Permissions](#permissions) | The daily reminders, the timer sounds and Apple Health |
 | [Pro](#pro) | Workout Planner Pro: unlock, restore or manage your subscription |
 | [Data](#data) | Deleting your workout history |
 | [About](#about) | Rating the app, the website, help, privacy policy, terms of use and version |
@@ -36,6 +36,7 @@ description: Every option of the Settings tab of Workout Planner — appearance,
 |---|---|---|
 | **Notifications** | On | Schedules the daily reminders at 7:00 and 22:00, and the monthly free AI workout reminder for Pro. Off removes them. Greyed out if notifications are not allowed for the app in iOS. See [Notifications](notifications.html). |
 | **Sounds** | On | Plays the timer beeps: 3-2-1 countdown, start of an exercise, start of a rest, end of the workout. Off makes the timer silent (haptics still work). See [Running a Workout](timer.html#sounds). |
+| **Apple Health** | Off | Saves your completed workouts in the Health app, and keeps Health in step with your history (deleted workouts are deleted there too). Asks for the permission the first time. See [Apple Health](history-and-statistics.html#apple-health). |
 
 ## Pro
 

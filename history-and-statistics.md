@@ -1,7 +1,7 @@
 ---
 layout: default
 title: History & Statistics
-description: The Me tab of Workout Planner — calendar of completed workouts, weekly and monthly charts, averages, totals, sharing your stats and deleting the history.
+description: The Me tab of Workout Planner — calendar of completed workouts, weekly and monthly charts, averages, totals, sharing your stats, Apple Health and deleting the history.
 ---
 
 # History & Statistics
@@ -27,7 +27,7 @@ A workout is recorded when the timer reaches the **end** (or when you skip past 
 | **Planned** | The planned duration of the workout (sum of its blocks). |
 | **Exercises** | The number of exercises of the workout (rounds included). |
 
-A workout ended early with **✕ › End Workout** is not recorded. Everything is stored only on your device.
+A workout ended early with **✕ › End Workout** is not recorded. Everything is stored only on your device, and in the Health app if you turn on [Apple Health](#apple-health).
 
 The **Me** tab has two parts, selected at the top: **Workouts** and **Data**.
 
@@ -97,7 +97,29 @@ The app draws a dark image (1080 pixels wide, PNG named *My Workout Stats.png*) 
 - The app asks for a confirmation first. **This can't be undone.**
 - The button is greyed out when the history is already empty.
 
-It isn't possible to delete a single entry of the history.
+To delete **one** completed workout, select its day in the calendar, touch and hold its card, then tap **Delete**.
+
+When [Apple Health](#apple-health) is on, the deleted workouts are also deleted from the Health app.
+
+## Apple Health
+
+Turn on **Settings › Permissions › Apple Health** to save your completed workouts in Apple's **Health** app. The first time, iOS asks for the permission: allow **Workouts**.
+
+Health then always matches your history:
+
+| In Workout Planner | In the Health app |
+|---|---|
+| You complete a workout | It is added, with its start, its end and the name of the workout |
+| You turn Apple Health on | The workouts already in your history are added too |
+| You delete a workout from the history, or the whole history | It is deleted from Health too |
+| You turn Apple Health off | Nothing new is added or deleted. The workouts already in Health stay there |
+
+- The workouts appear in Health as **High Intensity Interval Training**, from the source *Workout Planner*. Their duration is the real time, pauses included.
+- No heart rate or calories are recorded: Workout Planner doesn't measure them.
+- The app only changes the workouts it saved itself, never those of other apps or of your Apple Watch.
+- A workout you delete yourself in the Health app is not added back.
+- If the permission was refused, the option turns itself off. Open the **Health** app, tap your profile picture, then **Apps › Workout Planner**, and turn on **Workouts**.
+- Apple Health is available on iPhone, and on iPad with iPadOS 17 or later. It is free (no Pro needed).
 
 ## Widgets
 
