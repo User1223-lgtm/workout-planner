@@ -88,10 +88,10 @@ The total of the period is shown at the top right of each chart.
 | **Exercises** | 5,000 exercises every year |
 | Any of them, **Custom** | 20 workouts from December 1 to January 15 |
 
-Each card shows the goal, the period (*This Week · 4 days left*, or *Dec 1 – Jan 15 · 30 days left* for custom dates), the progress (*2 / 3*) and a **progress bar**, with what is left (*1 more workout*). When the goal is reached, the bar turns green with a check and **Goal reached**.
+Each card shows the goal (*3 workouts*), its period in a small label at the top right (*This Week*, or *Dec 1 – Jan 15* for custom dates), a **progress bar** and the progress (*2 / 3*). When the goal is reached, the bar and the numbers turn green with a check.
 
-- **Add a goal**: tap **+** at the top right (or **Add a Goal** when the list is empty), choose what to count, the period (**Week**, **Month**, **Year** or **Custom**) and the number, then tap **Add**. The number goes up by 1 workout, 15 minutes or 10 exercises.
-- **Custom** shows **From** and **To**: the goal counts the workouts completed between these two days, both included. Before the first day the card says *Starts in 3 days*, after the last one *Ended* (it keeps its final result).
+- **Add a goal**: tap **+** at the top right (or **Add a Goal** when the list is empty), choose what to count, the period (**Week**, **Month**, **Year** or **Custom**) and the number, then tap **Add**. The number is chosen with **wheels**, to the unit: 1 to 999 workouts, 1 to 9,999 exercises, or hours and minutes of training.
+- **Custom** shows **From** and **To**: the goal counts the workouts completed between these two days, both included. After the last day, the card keeps its final result.
 - **Edit a goal**: tap its card. **Delete** it from the editor, or touch and hold the card › **Delete Goal**.
 - You can have as many goals as you want, for example a weekly one and a yearly one.
 
