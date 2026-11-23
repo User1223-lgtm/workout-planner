@@ -45,9 +45,11 @@ Start a workout in one tap.
 
 ### Choose the workouts
 
-**Edit Widget** shows one box per place of the widget: **Workout 1** for the small and Lock Screen widgets, **Workout 1** to **Workout 3** for the medium widget, **Workout 1** to **Workout 8** for the large one. Choose a workout in each box. Workouts are listed with their folder and duration, for example *Strength › Week 1 · 25 min*. A workout already chosen in another box is not offered again. Choose **None** (or leave a box empty) to keep that place blank: the other workouts stay where they are.
+**Edit Widget** shows one box per place of the widget: **Workout 1** for the small and Lock Screen widgets, **Workout 1** to **Workout 3** for the medium widget, **Workout 1** to **Workout 8** for the large one. Choose a workout in each box. Workouts are listed with their folder and duration, for example *Strength › Week 1 · 25 min*. A workout already chosen in another box is not offered again. Choose **None** to keep that place blank: the other workouts stay where they are.
 
-If you leave **every box empty**, the widget shows **your last workouts**: the ones you started most recently, completed by your newest workouts. Workouts that last 0 seconds are never shown.
+When you add the widget, the boxes are already filled with your last workouts, in order (a box with nothing to show gets **None**).
+
+*Your last workouts* are the ones you started most recently, completed by your newest workouts. Workouts that last 0 seconds are never shown.
 
 If you have no workout yet, the widget says *No workouts yet — Create one in the app*.
 
@@ -64,7 +66,7 @@ Your progress at a glance.
 
 The widget switches to the new week or month by itself at midnight.
 
-- **Edit Widget › Period**: **This Week** (default) or **This Month**.
+- **Edit Widget › Period**: **This Week** (chosen when you add the widget) or **This Month**.
 - **Tap the widget** (small and medium) to show the next statistic: **Workouts** → **Training Time** → **Exercises** → back to Workouts. Three dots at the bottom, in the middle, show which one you see, like pages. The widget remembers it.
 
 The Lock Screen widgets show the statistic chosen last on the Home Screen widget of the same period.
@@ -73,7 +75,7 @@ The Lock Screen widgets show the statistic chosen last on the Home Screen widget
 
 The progress bars of your goals of **Me › Goals**.
 
-**Edit Widget** shows one box per place of the widget: **Goal 1** and **Goal 2** for the small widget, **Goal 1** to **Goal 3** for the medium, **Goal 1** to **Goal 8** for the large, **Goal 1** on the Lock Screen. Choose a goal in each box; a goal already chosen in another box is not offered again. **None** (or an empty box) keeps that place blank. Leave every box empty to show your first goals, in the order of Me › Goals.
+**Edit Widget** shows one box per place of the widget: **Goal 1** and **Goal 2** for the small widget, **Goal 1** to **Goal 3** for the medium, **Goal 1** to **Goal 8** for the large, **Goal 1** on the Lock Screen. Choose a goal in each box; a goal already chosen in another box is not offered again. **None** keeps that place blank. When you add the widget, the boxes are already filled with your first goals, in the order of Me › Goals.
 
 | Size | Shows |
 |---|---|
