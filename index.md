@@ -5,7 +5,8 @@ description: Everything about Workout Planner for iPhone and iPad — folders, t
 ---
 
 <div class="hero">
-  <img src="images/app-icon.png" alt="Workout Planner icon">
+  <img class="on-light-site" src="images/app-icon-dark.png" alt="Workout Planner icon">
+  <img class="on-dark-site" src="images/app-icon.png" alt="Workout Planner icon">
   <div>
     <h1>Workout Planner</h1>
     <p>Plan and time your workouts. Complete user guide.</p>

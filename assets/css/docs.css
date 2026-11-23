@@ -324,7 +324,10 @@ blockquote.pro-note { border-left-color: var(--gold-2); background: rgba(255, 17
   border: 1px solid var(--border);
   box-shadow: var(--shadow);
 }
-/* Light site: screenshots of the app in dark mode. Dark site: the app in light mode. */
+/* Light site: logo and screenshots of the app in dark. Dark site: in light. */
+img.on-dark-site { display: none; }
+[data-theme="dark"] img.on-dark-site { display: inline-block; }
+[data-theme="dark"] img.on-light-site { display: none; }
 .screen img { display: block; }
 .screen img.on-dark-site { display: none; }
 [data-theme="dark"] .screen img.on-dark-site { display: block; }
