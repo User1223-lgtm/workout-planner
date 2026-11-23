@@ -17,7 +17,7 @@ On this page
 
 ## Three ways to create a workout
 
-<figure class="screen right"><img src="images/create-workout.jpg" alt="Create a Workout: From Scratch, From a Template, With AI"><figcaption>Create a Workout</figcaption></figure>
+{% include screen.html image="create-workout.jpg" alt="Create a Workout: From Scratch, From a Template, With AI" caption="Create a Workout" class="right" %}
 
 Open the folder where you want the new workout, then tap **⋯ › Create a Workout**. The **Create a Workout** sheet asks *How do you want to start?*:
 
@@ -31,7 +31,7 @@ The new workout is always saved in the folder you were in. Tap **Cancel** to clo
 
 ## From a template
 
-Tap **From a Template**, then tap a template: the workout is **created immediately** in the current folder, and the sheet closes. If a workout with the same name already exists in the folder, the new one gets a number (*Tabata 2*).
+Tap **From a Template**, then tap a template: the workout is **created immediately** in the current folder, and the **Workout Created** screen confirms it (tap **Done**). The same screen appears after **From Scratch** and **With AI**. If a workout with the same name already exists in the folder, the new one gets a number (*Tabata 2*).
 
 | Template | Workout name | Structure | Total |
 |---|---|---|---|

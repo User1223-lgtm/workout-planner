@@ -17,7 +17,7 @@ On this page
 
 ## What Pro unlocks
 
-<figure class="screen right"><img src="images/pro.jpg" alt="The Workout Planner Pro screen"><figcaption>The Pro screen</figcaption></figure>
+{% include screen.html image="pro.jpg" alt="The Workout Planner Pro screen" caption="The Pro screen" class="right" %}
 
 | Pro feature | Where | Without Pro |
 |---|---|---|
@@ -48,7 +48,7 @@ Subscriptions **renew automatically** until you cancel them. Payment is charged 
 2. Choose **Pro Yearly** or **Pro Monthly**.
 3. Tap **Subscribe** and confirm with Face ID, Touch ID or your password.
 
-Pro is active immediately. **Settings** then shows **Workout Planner Pro — Active**.
+Pro is active immediately. **Settings** then shows **Workout Planner Pro Unlocked**.
 
 The Pro screen also has links to the **Terms of Service** and the **Privacy Policy**, a **Restore Subscription** button, and **✕** to close it without subscribing.
 

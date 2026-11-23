@@ -27,7 +27,7 @@ A workout that lasts 0 seconds can't be started (the button is greyed out).
 
 ## The timer screen
 
-<figure class="screen right"><img src="images/timer.jpg" alt="The timer during the Easy Jog exercise"><figcaption>An exercise in progress</figcaption></figure>
+{% include screen.html image="timer.jpg" alt="The timer during the Easy Jog exercise" caption="An exercise in progress" class="right" %}
 
 From top to bottom:
 

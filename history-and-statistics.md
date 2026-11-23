@@ -33,7 +33,7 @@ The **Me** tab has two parts, selected at the top: **Workouts** and **Data**.
 
 ## Workouts: the calendar
 
-<figure class="screen right"><img src="images/me-workouts.jpg" alt="The calendar of November with completed workouts"><figcaption>Me › Workouts</figcaption></figure>
+{% include screen.html image="me-workouts.jpg" alt="The calendar of November with completed workouts" caption="Me › Workouts" class="right" %}
 
 - The **month** is shown at the top. Use **‹** and **›** to go to the previous or next month.
 - Under the month: the number of workouts and the total time of that month (*9 workouts · 8h 18m 55s*), or *No workout this month*.
@@ -45,7 +45,7 @@ Workouts are placed on the day they **finished**.
 
 ## Data: the statistics
 
-<figure class="screen right"><img src="images/me-data.jpg" alt="Charts of the week and the month"><figcaption>Me › Data</figcaption></figure>
+{% include screen.html image="me-data.jpg" alt="Charts of the week and the month" caption="Me › Data" class="right" %}
 
 Before your first completed workout, this page says **No Data Yet**.
 

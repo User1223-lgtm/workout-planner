@@ -21,7 +21,7 @@ description: Every option of the Settings tab of Workout Planner — appearance,
 | [About](#about) | Rating the app, the website, help, privacy policy, terms of use and version |
 
 <div class="screens">
-  <figure class="screen"><img src="images/settings.jpg" alt="The Settings tab"><figcaption>The Settings tab</figcaption></figure>
+  {% include screen.html image="settings.jpg" alt="The Settings tab" caption="The Settings tab" %}
 </div>
 
 ## Style
@@ -50,7 +50,7 @@ With Pro:
 
 | Option | Effect |
 |---|---|
-| **Workout Planner Pro — Active** | Shows that Pro is active. |
+| **Workout Planner Pro Unlocked** | Shows that Pro is active, with the same crown and gold text as *Unlock Workout Planner Pro*. |
 | **Manage Subscription** | Opens Apple's sheet to change plan or cancel. |
 | **Restore Purchases** | Same as above. |
 

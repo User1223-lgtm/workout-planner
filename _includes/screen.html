@@ -1,0 +1,6 @@
+{%- comment -%}
+  App screenshot. The site in light shows the app in dark mode, and the site
+  in dark shows the app in light mode, so the screenshot always stands out.
+  Usage: {% include screen.html image="timer.jpg" alt="…" caption="…" class="right" %}
+{%- endcomment -%}
+<figure class="screen{% if include.class %} {{ include.class }}{% endif %}"><img class="on-light-site" src="{{ '/images/dark/' | append: include.image | relative_url }}" alt="{{ include.alt | escape }}" loading="lazy"><img class="on-dark-site" src="{{ '/images/' | append: include.image | relative_url }}" alt="{{ include.alt | escape }}" loading="lazy">{% if include.caption %}<figcaption>{{ include.caption }}</figcaption>{% endif %}</figure>

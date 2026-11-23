@@ -19,9 +19,9 @@ Everything stays on your device: no account, no ads, no tracking.
 <p class="buttons"><a class="button" href="{{ site.app_store_url }}">Download on the App Store</a> <a class="button secondary" href="getting-started.html">Get started</a></p>
 
 <div class="screens">
-  <figure class="screen"><img src="images/my-workouts.jpg" alt="My Workouts: folders and workouts"><figcaption>My Workouts</figcaption></figure>
-  <figure class="screen"><img src="images/workout-detail.jpg" alt="A workout with its program"><figcaption>A workout</figcaption></figure>
-  <figure class="screen"><img src="images/timer.jpg" alt="The timer during an exercise"><figcaption>The timer</figcaption></figure>
+  {% include screen.html image="my-workouts.jpg" alt="My Workouts: folders and workouts" caption="My Workouts" %}
+  {% include screen.html image="workout-detail.jpg" alt="A workout with its program" caption="A workout" %}
+  {% include screen.html image="timer.jpg" alt="The timer during an exercise" caption="The timer" %}
 </div>
 
 ## The user guide

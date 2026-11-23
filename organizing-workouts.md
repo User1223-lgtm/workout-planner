@@ -17,7 +17,7 @@ On this page
 
 ## The library
 
-<figure class="screen right"><img src="images/my-workouts.jpg" alt="My Workouts with 4 folders and 3 workouts"><figcaption>The root of My Workouts</figcaption></figure>
+{% include screen.html image="my-workouts.jpg" alt="My Workouts with 4 folders and 3 workouts" caption="The root of My Workouts" class="right" %}
 
 The top level of the tab is called **My Workouts**. It can contain:
 
@@ -42,7 +42,7 @@ Every folder page has a **⋯** button at the top right. It contains every actio
 | Organize | **Select** | Turns on [selection mode](#selecting-several-items) to act on several items at once. |
 | | **Sort By** | **Name** or **Date Created**. See [Sorting](#sorting). |
 | This folder (not at the root) | **Rename Folder** | Renames the folder you are in. |
-| | **Export Folder** <span class="badge pro">Pro</span> | Shares the folder and everything inside as one `.json` file. |
+| | **Export Folder** <span class="badge pro">Pro</span> | Shares the folder and everything inside as one library file. |
 | | **Delete Folder** | Deletes the folder you are in and **everything inside it**, after a confirmation. |
 
 Without Pro, Pro actions appear with a gold crown. Tapping them opens the Workout Planner Pro screen.
@@ -73,7 +73,7 @@ The app checks this rule whenever you create, rename, move or save something. Wh
 | **Rename Folder** | Opens a field with the current name. **Save** to apply. |
 | **Duplicate Folder** | Copies the folder and its entire content (sub-folders and workouts) next to the original. |
 | **Move Folder** | Moves it into another folder. See [Move](#move). |
-| **Export Folder** <span class="badge pro">Pro</span> | Shares the folder as a `.json` file. |
+| **Export Folder** <span class="badge pro">Pro</span> | Shares the folder as a library file. |
 | **Delete Folder** | Deletes it and everything inside, after a confirmation. |
 
 ### Workout menu
@@ -85,7 +85,7 @@ The app checks this rule whenever you create, rename, move or save something. Wh
 | **Rename Workout** | Changes the name only. Free for everyone. |
 | **Duplicate Workout** | Creates a copy next to the original. |
 | **Move Workout** | Moves it into another folder. |
-| **Export Workout** <span class="badge pro">Pro</span> | Shares it as a `.json` file. |
+| **Export Workout** <span class="badge pro">Pro</span> | Shares it as a library file that contains only this workout. |
 | **Delete Workout** | Deletes it after a confirmation. |
 
 ### Duplicate
@@ -116,7 +116,7 @@ Deleting always asks for a confirmation and **can't be undone**. Deleting a fold
 |---|---|
 | **Done** | Leaves selection mode. |
 | **Select All** / **Deselect All** | Selects or clears every row currently displayed (including search results). |
-| **Export Data** <span class="badge pro">Pro</span> | Shares everything selected in **one** `.json` file. |
+| **Export Data** <span class="badge pro">Pro</span> | Shares everything selected in **one** library file. |
 | **Duplicate Items** | Duplicates every selected item. |
 | **Delete Items** | Deletes every selected item, after a confirmation (*Delete 3 items?*). |
 
@@ -149,7 +149,7 @@ The choice applies to **every folder** and is remembered. Folders always stay ab
 
 ## The workout page
 
-<figure class="screen right"><img src="images/workout-detail.jpg" alt="The page of a workout"><figcaption>A workout's page</figcaption></figure>
+{% include screen.html image="workout-detail.jpg" alt="The page of a workout" caption="A workout's page" class="right" %}
 
 Tap a workout to open its page:
 
