@@ -44,7 +44,7 @@ Yes, this one: the complete documentation of the app. Open it from **Settings �
 ## Your data
 
 ### Can I set a goal, like 3 workouts a week?
-Yes, in **Me › Goals**: tap **+**, then choose workouts, training time or exercises, per week, month or year. The progress bar fills with your completed workouts. See [Goals](history-and-statistics.html#goals-your-targets).
+Yes, in **Me › Goals**: tap **+**, then choose workouts, training time or exercises, per week, month or year, or between two dates (**Custom**). The progress bar fills with your completed workouts. See [Goals](history-and-statistics.html#goals-your-targets).
 
 ### Are my workouts saved in Apple Health?
 Yes, if you turn on **Settings › Permissions › Apple Health**. Every completed workout is added to the Health app, and the workouts you delete from the history are deleted there too. See [Apple Health](history-and-statistics.html#apple-health).

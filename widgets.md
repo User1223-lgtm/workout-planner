@@ -81,7 +81,7 @@ The progress bars of your goals of **Me › Goals**, in the same order.
 | Large | The first 6 goals |
 | Lock Screen, rectangular | The first goal |
 
-A reached goal shows a green check. The widget starts again at 0 by itself when a new week, month or year begins. With no goal yet, it says *Add a goal in Me › Goals*.
+A reached goal shows a green check. The widget starts again at 0 by itself when a new week, month or year begins, and follows the dates of custom goals. With no goal yet, it says *Add a goal in Me › Goals*.
 
 Tap the widget to open **Me › Goals**. See [Goals](history-and-statistics.html#goals-your-targets).
 

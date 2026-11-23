@@ -51,7 +51,7 @@ Everything stays on your device: no account, no ads, no tracking.
 | AI workouts made by Apple Intelligence | Pay per workout | **1 free every month**, then pay per workout |
 | Full-screen timer with beeps, haptics and Live Activity | ✓ | ✓ |
 | History calendar, charts, averages, totals, shareable stats images | ✓ | ✓ |
-| Goals with progress bars (workouts, time or exercises per week, month or year) | ✓ | ✓ |
+| Goals with progress bars (workouts, time or exercises per week, month, year or between two dates) | ✓ | ✓ |
 | Quick Start, Stats and Goals widgets | ✓ | ✓ |
 | Completed workouts saved in **Apple Health** | ✓ | ✓ |
 | Create a workout **from scratch** | – | ✓ |

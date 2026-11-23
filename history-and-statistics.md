@@ -79,21 +79,23 @@ The total of the period is shown at the top right of each chart.
 
 ## Goals: your targets
 
-**Me › Goals** lists your goals as cards. A goal is a number to reach **every week, month or year**:
+**Me › Goals** lists your goals as cards. A goal is a number to reach **every week, month or year**, or **between two dates** of your choice:
 
 | Count | Example |
 |---|---|
 | **Workouts** | 3 workouts every week |
 | **Time** | 8 hours of training every month |
 | **Exercises** | 5,000 exercises every year |
+| Any of them, **Custom** | 20 workouts from December 1 to January 15 |
 
-Each card shows the goal, the period (*This Week · 4 days left*), the progress (*2 / 3*) and a **progress bar**, with what is left (*1 more workout*). When the goal is reached, the bar turns green with a check and **Goal reached**.
+Each card shows the goal, the period (*This Week · 4 days left*, or *Dec 1 – Jan 15 · 30 days left* for custom dates), the progress (*2 / 3*) and a **progress bar**, with what is left (*1 more workout*). When the goal is reached, the bar turns green with a check and **Goal reached**.
 
-- **Add a goal**: tap **+** at the top right (or **Add a Goal** when the list is empty), choose what to count, the period and the number, then tap **Add**. The number goes up by 1 workout, 15 minutes or 10 exercises.
+- **Add a goal**: tap **+** at the top right (or **Add a Goal** when the list is empty), choose what to count, the period (**Week**, **Month**, **Year** or **Custom**) and the number, then tap **Add**. The number goes up by 1 workout, 15 minutes or 10 exercises.
+- **Custom** shows **From** and **To**: the goal counts the workouts completed between these two days, both included. Before the first day the card says *Starts in 3 days*, after the last one *Ended* (it keeps its final result).
 - **Edit a goal**: tap its card. **Delete** it from the editor, or touch and hold the card › **Delete Goal**.
 - You can have as many goals as you want, for example a weekly one and a yearly one.
 
-Goals don't record anything new: the progress is counted from your **completed workouts** (the same data as the calendar and the statistics), for the **current** week (Monday to Sunday or Sunday to Saturday, as set on your device), month or year. At the start of each new period, the progress starts again at 0. If you delete workouts from the history, the progress goes down too.
+Goals don't record anything new: the progress is counted from your **completed workouts** (the same data as the calendar and the statistics), for the **current** week (Monday to Sunday or Sunday to Saturday, as set on your device), month or year, or between the custom dates. A weekly, monthly or yearly goal starts again at 0 at the start of each new period. If you delete workouts from the history, the progress goes down too.
 
 The **Goals** widget shows the same progress bars on your Home Screen and Lock Screen. See [Widgets](widgets.html#goals).
 
