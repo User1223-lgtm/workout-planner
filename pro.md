@@ -45,7 +45,7 @@ Subscriptions **renew automatically** until you cancel them. Payment is charged 
 
 ## Subscribe
 
-1. Open the Pro screen: **Settings › Unlock Workout Planner Pro**, or tap any Pro action with a crown. (The screen is also shown once, at the first launch.)
+1. Open the Pro screen: **Settings › Unlock Workout Planner Pro**, or tap any Pro action with a crown. (The screen is also shown once, at the first launch.) You can also subscribe on your [Apple Watch](apple-watch.html#get-the-app), from the Workout Planner app.
 2. Choose **Pro Yearly** or **Pro Monthly**.
 3. Tap **Subscribe** and confirm with Face ID, Touch ID or your password.
 

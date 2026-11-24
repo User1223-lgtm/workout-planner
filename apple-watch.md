@@ -19,7 +19,7 @@ On this page
 
 The Apple Watch app comes with Workout Planner: if your Apple Watch is paired with your iPhone, it installs by itself (or open the **Watch** app on your iPhone, find **Workout Planner** and tap **Install**).
 
-- The Watch app is part of **[Workout Planner Pro](pro.html)**. Without Pro, it shows *The Apple Watch app is part of Workout Planner Pro. Unlock it in the app on your iPhone.*
+- The Watch app is part of **[Workout Planner Pro](pro.html)**. Without Pro, it shows the Pro screen: subscribe right on the Watch (**Pro Yearly** or **Pro Monthly**, confirmed by double-clicking the side button), tap **Restore Purchases**, or subscribe in the app on your iPhone. Pro is linked to your Apple Account: bought on the Watch, it's also active on your iPhone, and the other way around.
 - Everything comes from your iPhone: open Workout Planner on your iPhone once, and your workouts, goals, history and stats appear on the Watch. They stay there, even when the iPhone isn't nearby, and are updated each time something changes on the iPhone.
 - The first time you start a workout on the Watch, it asks to read your **heart rate** (and to save workouts in Health). Allow it to see your heart rate and calories.
 
