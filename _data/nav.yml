@@ -21,8 +21,10 @@
     - title: History & Statistics
       url: /history-and-statistics.html
 
-- title: On Your iPhone
+- title: On Your Devices
   items:
+    - title: Apple Watch
+      url: /apple-watch.html
     - title: Widgets & Live Activity
       url: /widgets.html
     - title: Notifications

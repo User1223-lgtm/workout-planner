@@ -102,7 +102,7 @@ The copy is placed in the same folder as the original and named **“Name copy 1
 
 ### Delete
 
-Deleting always asks for a confirmation and **can't be undone**. Deleting a folder deletes all its sub-folders and workouts.
+Deleting always asks for a confirmation in a window in the middle of the screen (*Delete Workout?*, *Delete Folder and Everything Inside?*), with **Cancel** and **Delete**. It **can't be undone**. Deleting a folder deletes all its sub-folders and workouts.
 
 > Deleting a workout does **not** delete it from your history: the [history](history-and-statistics.html) keeps a copy of the workout's name for every completed session.
 
@@ -118,7 +118,7 @@ Deleting always asks for a confirmation and **can't be undone**. Deleting a fold
 | **Select All** / **Deselect All** | Selects or clears every row currently displayed (including search results). |
 | **Export Data** <span class="badge pro">Pro</span> | Shares everything selected in **one** library file. |
 | **Duplicate Items** | Duplicates every selected item. |
-| **Delete Items** | Deletes every selected item, after a confirmation (*Delete 3 items?*). |
+| **Delete Items** | Deletes every selected item, after a confirmation (*Delete 3 Items?*). |
 
 If you select a folder and also a workout or folder that is inside it, the inner item is not counted twice: it comes with its folder.
 

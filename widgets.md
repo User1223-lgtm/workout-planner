@@ -21,7 +21,7 @@ On this page
 
 1. Touch and hold an empty area of the Home Screen until the apps jiggle.
 2. Tap **Edit › Add Widget** (or **+** at the top left).
-3. Search for **Workout Planner**, choose **Quick Start** or **Stats**, choose a size, then **Add Widget**.
+3. Search for **Workout Planner**, choose **Quick Start**, **Stats** or **Goals**, choose a size, then **Add Widget**.
 
 **Lock Screen**
 
@@ -45,11 +45,9 @@ Start a workout in one tap.
 
 ### Choose the workouts
 
-**Edit Widget** shows one box per place of the widget: **Workout 1** for the small and Lock Screen widgets, **Workout 1** to **Workout 3** for the medium widget, **Workout 1** to **Workout 8** for the large one. Choose a workout in each box. Workouts are listed with their folder and duration, for example *Strength › Week 1 · 25 min*. A workout already chosen in another box is not offered again. Choose **None** to keep that place blank: the other workouts stay where they are.
+**Edit Widget** shows a list of **Workouts** that you fill in yourself, up to the size of the widget: 1 workout for the small and Lock Screen widgets, 3 for the medium widget, 8 for the large one. Tap **Choose** (or **+**) to add a workout: workouts are listed with their folder and duration, for example *Strength › Week 1 · 25 min*, and a workout already in the list is not offered again. The widget shows them from the top, in the order of the list; if there are fewer than the places, the space below stays empty.
 
-When you add the widget, the boxes are already filled with your last workouts, in order (a box with nothing to show gets **None**).
-
-*Your last workouts* are the ones you started most recently, completed by your newest workouts. Workouts that last 0 seconds are never shown.
+As long as you haven't edited the list, the widget shows your workouts **in alphabetical order**, as many as fit. Workouts that last 0 seconds are never shown.
 
 If you have no workout yet, the widget says *No workouts yet — Create one in the app*.
 
@@ -67,7 +65,7 @@ Your progress at a glance.
 The widget switches to the new week or month by itself at midnight.
 
 - **Edit Widget › Period**: **This Week** (chosen when you add the widget) or **This Month**.
-- **Tap the widget** (small and medium) to show the next statistic: **Workouts** → **Training Time** → **Exercises** → back to Workouts. Three dots at the bottom, in the middle, show which one you see, like pages. The widget remembers it.
+- **Tap the widget** (small and medium) to show the next statistic: **Workouts** → **Training Time** → **Exercises** → **Calories** → back to Workouts. Four dots at the bottom, in the middle, show which one you see, like pages. The widget remembers it. Calories only count the workouts where they were calculated (see [Heart rate and calories](history-and-statistics.html#heart-rate-and-calories)).
 
 The Lock Screen widgets show the statistic chosen last on the Home Screen widget of the same period.
 
@@ -75,18 +73,22 @@ The Lock Screen widgets show the statistic chosen last on the Home Screen widget
 
 The progress bars of your goals of **Me › Goals**.
 
-**Edit Widget** shows one box per place of the widget: **Goal 1** and **Goal 2** for the small widget, **Goal 1** to **Goal 3** for the medium, **Goal 1** to **Goal 8** for the large, **Goal 1** on the Lock Screen. Choose a goal in each box; a goal already chosen in another box is not offered again. **None** keeps that place blank. When you add the widget, the boxes are already filled with your first goals, in the order of Me › Goals.
+**Edit Widget** shows a list of **Goals** that you fill in yourself, up to the size of the widget: 2 goals for the small widget, 3 for the medium, 8 for the large, 1 on the Lock Screen. A goal already in the list is not offered again. As long as you haven't edited the list, the widget shows your goals in the order of Me › Goals, as many as fit.
 
 | Size | Shows |
 |---|---|
-| Small | 2 goals: period, progress (*2 / 3*) and bar |
-| Medium | 3 goals, with what each one counts |
+| Small | 2 goals: period, then the bar with the progress (*2 / 3*) next to it |
+| Medium | 3 goals: what each one counts and its period, then the bar with the progress next to it |
 | Large | 8 goals |
 | Lock Screen, rectangular | 1 goal |
 
-A reached goal shows a green check. The widget starts again at 0 by itself when a new week, month or year begins, and follows the dates of custom goals. With no goal yet, it says *Add a goal in Me › Goals*.
+Like in the app, a goal turns **indigo** with *Completed · 5 / 3* as soon as it's reached, and **grey** with *Failed* when the dates of a custom goal are over without reaching it. The widget starts again at 0 by itself when a new week, month or year begins, and follows the dates of custom goals. With no goal yet, it says *Add a goal in Me › Goals*.
 
 Tap the widget to open **Me › Goals**. See [Goals](history-and-statistics.html#goals-your-targets).
+
+## Apple Watch complications
+
+On your Apple Watch, Workout Planner adds two complications to the watch face: your goal in progress, and a shortcut to the app. See [Apple Watch](apple-watch.html#watch-face-complications).
 
 ## When widgets update
 

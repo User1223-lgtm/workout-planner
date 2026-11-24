@@ -30,7 +30,7 @@ Yes. Everything works offline, including AI workouts once Apple Intelligence is 
 The app is in English.
 
 ### Which devices are supported?
-iPhone and iPad with iOS / iPadOS 26.5 or later. AI workouts need a device with Apple Intelligence.
+iPhone and iPad with iOS / iPadOS 26.5 or later, and Apple Watch with watchOS 26.5 or later (with [Pro](pro.html)). AI workouts need a device with Apple Intelligence.
 
 ### How can I rate the app or leave a review?
 Open **Settings › Rate on the App Store**: the App Store opens on the review page of Workout Planner. Thank you, it really helps!
@@ -44,7 +44,7 @@ Yes, this one: the complete documentation of the app. Open it from **Settings �
 ## Your data
 
 ### Can I set a goal, like 3 workouts a week?
-Yes, in **Me › Goals**: tap **+**, then choose workouts, training time or exercises, per week, month or year, or between two dates (**Custom**). The progress bar fills with your completed workouts. See [Goals](history-and-statistics.html#goals-your-targets).
+Yes, in **Me › Goals**: tap **+**, then choose workouts, training time, exercises or calories, per week, month or year, or between two dates (**Custom**). The progress bar fills with your completed workouts, and the goal turns indigo as soon as it's reached. See [Goals](history-and-statistics.html#goals-your-targets).
 
 ### Are my workouts saved in Apple Health?
 Yes, if you turn on **Settings › Permissions › Apple Health**. Every completed workout is added to the Health app, and the workouts you delete from the history are deleted there too. See [Apple Health](history-and-statistics.html#apple-health).
@@ -65,7 +65,7 @@ Your workouts, folders, history, settings and unused AI workout purchases are de
 No. Exports contain folders and workouts only.
 
 ### How do I delete my history?
-**Settings › Data › Delete Workout History**. It deletes the whole history (not your workouts). Deleting a single entry isn't possible.
+**Settings › Data › Delete Workout History**. It deletes the whole history (not your workouts). To delete a single entry, touch and hold it under the calendar of **Me › Workouts**, then **Delete Entry**.
 
 ### I deleted a workout by mistake. Can I get it back?
 No, deleting can't be undone. If you had exported it, import the file again.
@@ -104,16 +104,33 @@ Yes, with Pro: export it, send the file, and your friend imports it (they need P
 Yes. The time stays exact, the beeps keep playing and the [Live Activity](widgets.html#live-activity) shows the countdown on the Lock Screen.
 
 ### Why isn't my workout in the history?
-Only workouts that reach the end are saved. If you closed the timer with **✕ › End Workout**, it isn't recorded. Tip: to finish quickly, tap **⏩** until the end — the workout then counts as completed.
+Only workouts that reach the end are saved. If you closed the timer with **✕ › End**, it isn't recorded. Tip: to finish quickly, tap **⏩** until the end — the workout then counts as completed.
 
 ### Why is the “Time” longer than the planned duration?
-**Time** is the real time from start to finish, **pauses included**, plus the 5-second **Get Ready**.
+**Time** is the real time from start to finish, **pauses included**, plus the 10-second **Get Ready**.
 
 ### What does ⏪ do?
 It restarts the current step. If the step started less than 2 seconds ago, it goes back to the previous step.
 
-### Can I change the 5-second Get Ready?
-No, it's always 5 seconds.
+### Can I change the 10-second Get Ready?
+No, it's always 10 seconds.
+
+### Can I turn the voice off?
+Yes: **Settings › Voice Coach**. The beeps stay on. To make the timer completely silent, turn off **Settings › Sounds**.
+
+## Apple Watch, heart rate and calories
+
+### Is there an Apple Watch app?
+Yes, with [Workout Planner Pro](pro.html). Play your workouts on the Watch, or control the iPhone timer from it, with your heart rate and calories. See [Apple Watch](apple-watch.html).
+
+### Why doesn't my workout have a heart rate?
+The heart rate is measured only by the Apple Watch app (Pro): play the workout on the Watch, or start it on the iPhone with the Watch on your wrist, and allow the heart rate the first time.
+
+### Why doesn't my workout have calories?
+Calories are calculated from the heart rate, at the end of the workout, **only if Me › Profile is completely filled in** (name, sex, birthday, height and weight). See [Heart rate and calories](history-and-statistics.html#heart-rate-and-calories).
+
+### Why are the calories different in the Health app?
+The Health app shows the calories calculated by Apple, its own way. Workout Planner calculates them from your heart rate and your profile.
 
 ## AI workouts
 
@@ -164,7 +181,7 @@ Open Workout Planner once: widgets are refreshed when you open and leave the app
 Check **Settings › Notifications** in the app, the iOS Settings app › **Notifications** › **Workout Planner**, and your Focus modes. See [Notifications](notifications.html).
 
 ### Can I change the time of the reminders?
-No, they are at 7:00 and 22:00. You can turn them off in **Settings › Notifications**.
+No, they are at 7:00 and 22:00 (and at 7:15 for the goal reminders). You can turn them off in **Settings › Notifications**.
 
 ## Still need help?
 

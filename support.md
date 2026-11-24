@@ -40,7 +40,7 @@ Check **Settings › Sounds**, and turn up the media volume during the workout. 
 **Settings › Rate on the App Store** opens the review page of the app. Thank you, it really helps! [More](faq.html#how-can-i-rate-the-app-or-leave-a-review)
 
 ### My workout isn't in the history.
-Only workouts that reach the end are saved. A workout closed with **✕ › End Workout** isn't recorded. [More](history-and-statistics.html#what-is-recorded)
+Only workouts that reach the end are saved. A workout closed with **✕ › End** isn't recorded. [More](history-and-statistics.html#what-is-recorded)
 
 ## Complete documentation
 

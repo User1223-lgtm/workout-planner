@@ -60,7 +60,7 @@ Each tab keeps its place: if you open a folder in My Workouts, switch to Me and 
 2. Choose **From a Template**.
 3. Tap **Tabata**. The workout is created right away in the current folder (here, at the root of My Workouts), and a green check confirms it. Tap **Done**.
 4. Tap the new **Tabata** workout to open it. You see its description, its duration (4 min), and its program: a group named *Tabata* repeated **×8** with *Work* 20 s and a *Rest* of 10 s.
-5. Tap **Start Workout**. A 5-second **Get Ready** countdown starts, then the timer plays the 16 steps one after the other, with a beep at each change.
+5. Tap **Start Workout**. A 10-second **Get Ready** countdown starts, then the timer plays the 16 steps one after the other, with a beep at each change.
 6. At the end, the **Workout Complete!** screen shows the time and the number of exercises. Tap **Done**: the workout now appears in **Me › Workouts** and in your statistics.
 
 <blockquote class="tip" markdown="1">

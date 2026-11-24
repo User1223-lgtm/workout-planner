@@ -67,7 +67,7 @@ It contains three parts:
 At the top:
 
 - **Create** (new workout) or **Save** (existing workout) writes your changes. It stays greyed out while the name is empty or already used.
-- **Cancel** closes the editor. If you changed something, the app asks **Discard your changes?** with **Discard Changes** or **Keep Editing**.
+- **Cancel** closes the editor. If you changed something, the app asks **Discard Changes?** with **Cancel** (keep editing) or **Discard**.
 - While there are unsaved changes, swiping the editor down doesn't close it, so you can't lose your work by accident.
 
 Nothing is saved until you tap **Create** or **Save**.
@@ -140,7 +140,7 @@ The timer plays: 8 × (Work, Rest), then Block rest, then again 8 × (Work, Rest
 
 When you start a workout, the timer turns the blocks into a flat list of **steps**:
 
-- A **Get Ready** step of **5 seconds** is always added at the beginning.
+- A **Get Ready** step of **10 seconds** is always added at the beginning.
 - Each exercise and each rest becomes one step.
 - Groups are unrolled round after round.
 - Blocks lasting **0 seconds** are skipped, and empty groups produce nothing.

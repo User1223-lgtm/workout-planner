@@ -26,8 +26,9 @@ On this page
 | **Import workouts and folders** | ⋯ › Import Data | – |
 | **Export workouts and folders** | Export Workout / Export Folder / Export Data | – |
 | **1 free AI workout every month** | ⋯ › Create a Workout › With AI | Each AI workout is bought separately |
+| **Apple Watch app**, with heart rate and calories | Your Apple Watch | The Watch app shows the Pro screen |
 
-Everything else is free: templates, the timer, folders, search, history, statistics, sharing your stats, widgets, the Live Activity and notifications.
+Everything else is free: templates, the timer and its voice coach, folders, search, history, statistics, goals, your profile, sharing your stats, widgets, the Live Activity, notifications and Apple Health.
 
 Without Pro, Pro actions are shown with a **gold crown**. Tapping one opens the Pro screen.
 

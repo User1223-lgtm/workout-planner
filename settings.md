@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Settings
-description: Every option of the Settings tab of Workout Planner — appearance, notifications, sounds, Pro, data, rating and links.
+description: Every option of the Settings tab of Workout Planner — appearance, notifications, sounds, voice coach, Apple Health, Pro, data, rating and links.
 ---
 
 # Settings
@@ -15,14 +15,16 @@ description: Every option of the Settings tab of Workout Planner — appearance,
 | Section | What you find there |
 |---|---|
 | [Style](#style) | The look of the app: automatic, light or dark |
-| [Permissions](#permissions) | The daily reminders, the timer sounds and Apple Health |
+| [Permissions](#permissions) | The reminders, the timer sounds, the voice coach and Apple Health |
 | [Pro](#pro) | Workout Planner Pro: unlock, restore or manage your subscription |
-| [Data](#data) | Deleting your workouts, your history or your goals |
+| [Data](#data) | Deleting your workouts, your history, your goals or your profile |
 | [About](#about) | Rating the app, the website, help, privacy policy, terms of use and version |
 
 <div class="screens">
   {% include screen.html image="settings.jpg" alt="The Settings tab" caption="The Settings tab" %}
 </div>
+
+The titles **Style**, **Permissions**, **Pro** and **Data** have a small grey arrow on the right: tap the title to show or hide the explanation of the section, under it.
 
 ## Style
 
@@ -34,9 +36,10 @@ description: Every option of the Settings tab of Workout Planner — appearance,
 
 | Option | Default | Effect |
 |---|---|---|
-| **Notifications** | On | Schedules the daily reminders at 7:00 and 22:00, and the monthly free AI workout reminder for Pro. Off removes them. Greyed out if notifications are not allowed for the app in iOS. See [Notifications](notifications.html). |
-| **Sounds** | On | Plays the timer beeps: 3-2-1 countdown, start of an exercise, start of a rest, end of the workout. Off makes the timer silent (haptics still work). See [Running a Workout](timer.html#sounds). |
-| **Apple Health** | Off | Saves your completed workouts in the Health app, and keeps Health in step with your history (deleted workouts are deleted there too). Asks for the permission the first time. See [Apple Health](history-and-statistics.html#apple-health). |
+| **Notifications** | On | Schedules the daily reminders at 7:00 and 22:00, the goal reminders, and the monthly free AI workout reminder for Pro. Off removes them. Greyed out if notifications are not allowed for the app in iOS. See [Notifications](notifications.html). |
+| **Sounds** | On | Plays the timer beeps: start of an exercise, start of a rest, halfway through each step, 3-2-1 countdown, end of the workout. Off makes the timer silent, voice included (haptics still work). See [Running a Workout](timer.html#sounds). |
+| **Voice Coach** | On | A voice announces each exercise and rest with its duration, halfway through long exercises and the end of the workout, on the iPhone and the Apple Watch. Greyed out when Sounds is off. See [Voice coach](timer.html#voice-coach). |
+| **Apple Health** | Off | Saves your completed workouts in the Health app (with heart rate and calories when your Apple Watch measured them), and keeps Health in step with your history (deleted workouts are deleted there too). Asks for the permission the first time. See [Apple Health](history-and-statistics.html#apple-health). |
 
 ## Pro
 
@@ -55,7 +58,7 @@ With Pro:
 | **Manage Subscription** | Opens Apple's sheet to change plan or cancel. |
 | **Restore Purchases** | Same as above. |
 
-The footer reminds what Pro gives: importing and exporting data, creating workouts from scratch, editing workouts and 1 free AI workout every month. See [Workout Planner Pro](pro.html).
+The explanation of the section reminds what Pro gives: importing and exporting data, creating workouts from scratch, editing workouts, 1 free AI workout every month and the Apple Watch app. See [Workout Planner Pro](pro.html).
 
 ## Data
 
@@ -64,6 +67,9 @@ The footer reminds what Pro gives: importing and exporting data, creating workou
 | **Delete All Workouts** | Deletes every workout and folder of **My Workouts**. Your history and your goals are kept. Asks for a confirmation; can't be undone. Greyed out when My Workouts is empty. |
 | **Delete Workout History** | Deletes every completed workout: the calendar and the statistics of the **Me** tab are emptied. Your saved workouts are kept. Asks for a confirmation; can't be undone. Greyed out when the history is empty. |
 | **Delete All Goals** | Deletes every goal of **Me › Goals**. Your workouts and your history are kept. Asks for a confirmation; can't be undone. Greyed out when there is no goal. |
+| **Delete Profile** | Empties **Me › Profile** (the units are kept). Asks for a confirmation; can't be undone. Greyed out when the profile is empty. |
+
+Each button asks for a confirmation in a window in the middle of the screen, named like the button (*Delete All Workouts?*), with **Cancel** and **Delete**.
 
 See [History & Statistics](history-and-statistics.html#delete-your-history).
 
