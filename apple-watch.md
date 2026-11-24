@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Apple Watch
-description: Workout Planner on Apple Watch (Pro) — play your workouts on the Watch, control the iPhone timer, heart rate and calories, voice coach, goals, history, stats and watch face complications.
+description: Workout Planner on Apple Watch (Pro) — play your workouts on the Watch, heart rate and calories, voice coach, one workout at a time, and a watch face complication.
 ---
 
 # Apple Watch
 
-<p class="lead">Your workouts on your wrist: the timer, your heart rate, your calories, your goals and your history. Part of <a href="pro.html">Workout Planner Pro</a>.</p>
+<p class="lead">Your workouts on your wrist: the timer, your heart rate and your calories. Part of <a href="pro.html">Workout Planner Pro</a>.</p>
 
 <div class="toc" markdown="1">
 On this page
@@ -20,17 +20,12 @@ On this page
 The Apple Watch app comes with Workout Planner: if your Apple Watch is paired with your iPhone, it installs by itself (or open the **Watch** app on your iPhone, find **Workout Planner** and tap **Install**).
 
 - The Watch app is part of **[Workout Planner Pro](pro.html)**. Without Pro, it shows the Pro screen: subscribe right on the Watch (**Pro Yearly** or **Pro Monthly**, confirmed by double-clicking the side button), tap **Restore Purchases**, or subscribe in the app on your iPhone. Pro is linked to your Apple Account: bought on the Watch, it's also active on your iPhone, and the other way around.
-- Everything comes from your iPhone: open Workout Planner on your iPhone once, and your workouts, goals, history and stats appear on the Watch. They stay there, even when the iPhone isn't nearby, and are updated each time something changes on the iPhone.
+- Everything comes from your iPhone: open Workout Planner on your iPhone once, and your workouts appear on the Watch. They stay there, even when the iPhone isn't nearby, and are updated each time something changes on the iPhone.
 - The first time you start a workout on the Watch, it asks to read your **heart rate** (and to save workouts in Health). Allow it to see your heart rate and calories.
 
-## The home screen
+## Your workouts
 
-| Row | What it shows |
-|---|---|
-| **Workouts** | Your workouts, in alphabetical order, with their folder and duration. Tap one to start it. |
-| **Goals** | Your goals of Me › Goals, with the same colors as on the iPhone. |
-| **History** | Your last 15 completed workouts. Tap one to see its time, exercises, heart rate and calories. |
-| **Stats** | This Week and This Month: workouts, time, exercises, average heart rate and calories. |
+The Watch opens on **Workouts**: your workouts, in alphabetical order, with their folder and duration. Tap one to start it.
 
 ## Play a workout on the Watch
 
@@ -51,30 +46,24 @@ Swipe up and down to switch between three pages, like in Apple's Workout app:
 
 At the end, the Watch shows **Workout Complete** with the time, the exercises, the average heart rate and the calories. The workout goes into the history of your iPhone (right away, or as soon as the iPhone is nearby), with its heart rate chart, and into the Health app when [Apple Health](history-and-statistics.html#apple-health) is on.
 
-## Use the Watch with the iPhone timer
+## One workout at a time
 
-Start a workout **on your iPhone** with your Apple Watch on your wrist: Workout Planner opens by itself on the Watch.
+A workout runs on one device at a time, and the other one is **locked** until it ends.
 
-- The Watch shows the **same timer** as the iPhone (with a small iPhone icon), and its buttons **control the iPhone**: pause, previous, next and end.
-- The Watch measures your **heart rate**; the iPhone shows it live under the progress bar, with the calories.
-- The Watch taps at each step change; the voice coach speaks on the iPhone.
-- At the end, the iPhone saves the workout with its heart rate chart and its calories.
+- **Started on the Watch**: your iPhone shows *Workout on Apple Watch*, the current step and its countdown. The app can't be used, and no other workout can start, until you finish or end the workout on the Watch.
+- **Started on the iPhone** with your Apple Watch on your wrist: Workout Planner opens by itself on the Watch and shows the same timer (with a small iPhone icon), without buttons. Pause, skip or end the workout on the iPhone. The Watch measures your **heart rate**; the iPhone shows it live under the progress bar, with the calories, and saves them with the workout. The Watch taps at each step change; the voice coach speaks on the iPhone.
+- If the device playing the workout stops answering (app closed, empty battery), the other one unlocks by itself a few minutes after the expected end.
 
 ## Heart rate and calories
 
-The heart rate is measured only by the Apple Watch, during a workout played on the Watch or controlled by it. The calories are **calculated from this heart rate and from your profile**, at the end of the workout, and only if **Me › Profile** is completely filled in. See [Heart rate and calories](history-and-statistics.html#heart-rate-and-calories).
+The heart rate is measured only by the Apple Watch, during a workout played on the Watch, or played on the iPhone with the Watch on your wrist. The calories are **calculated from this heart rate and from your profile**, at the end of the workout, and only if **Me › Profile** is completely filled in. See [Heart rate and calories](history-and-statistics.html#heart-rate-and-calories).
 
-## Watch face complications
+## Watch face complication
 
-Add Workout Planner to your watch face: touch and hold the watch face, tap **Edit**, swipe to the complications, choose a place, then **Workout Planner**.
-
-| Complication | Shows |
-|---|---|
-| **Goal** | Your first goal still in progress: a ring with *2/3*, a line of text, or a bar with its period. Indigo once the goal is reached. With no goal, a target that invites you to add one on your iPhone. |
-| **Workout Planner** | Opens the app, to start a workout in one tap. |
+Add Workout Planner to your watch face: touch and hold the watch face, tap **Edit**, swipe to the complications, choose a place, then **Workout Planner**. It opens the app, to start a workout in one tap. It's also available in the **Smart Stack** (turn the Digital Crown from the watch face).
 
 ## Good to know
 
 - The Watch app needs watchOS 26.5 or later.
 - The Watch can't create or edit workouts: do it on your iPhone, and the Watch gets them right away.
-- Only one workout runs at a time, on the iPhone or on the Watch.
+- Goals, the history and the statistics are on your iPhone.

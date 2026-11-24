@@ -121,7 +121,7 @@ Yes: **Settings › Voice Coach**. The beeps stay on. To make the timer complete
 ## Apple Watch, heart rate and calories
 
 ### Is there an Apple Watch app?
-Yes, with [Workout Planner Pro](pro.html). Play your workouts on the Watch, or control the iPhone timer from it, with your heart rate and calories. See [Apple Watch](apple-watch.html).
+Yes, with [Workout Planner Pro](pro.html). Play your workouts on the Watch, or start them on the iPhone with the Watch measuring your heart rate and calories. See [Apple Watch](apple-watch.html).
 
 ### Why doesn't my workout have a heart rate?
 The heart rate is measured only by the Apple Watch app (Pro): play the workout on the Watch, or start it on the iPhone with the Watch on your wrist, and allow the heart rate the first time.

@@ -86,9 +86,9 @@ Like in the app, a goal turns **indigo** with *Completed · 5 / 3* as soon as it
 
 Tap the widget to open **Me › Goals**. See [Goals](history-and-statistics.html#goals-your-targets).
 
-## Apple Watch complications
+## Apple Watch complication
 
-On your Apple Watch, Workout Planner adds two complications to the watch face: your goal in progress, and a shortcut to the app. See [Apple Watch](apple-watch.html#watch-face-complications).
+On your Apple Watch, Workout Planner adds a complication to the watch face and the Smart Stack: a shortcut to the app. See [Apple Watch](apple-watch.html#watch-face-complication).
 
 ## When widgets update
 

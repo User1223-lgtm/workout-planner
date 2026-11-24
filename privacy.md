@@ -37,7 +37,7 @@ If you turn on **Settings › Apple Health**, the app saves your completed worko
 
 With the Apple Watch app (Workout Planner Pro), the Watch reads your **heart rate** during a workout, with your permission. The heart rate and the calories calculated from it are kept in your workout history, on your devices, and saved in the Health app when the option above is on. The app doesn’t read any other health data.
 
-The iPhone and the Apple Watch exchange your workouts, goals, history and profile directly with each other (Apple’s WatchConnectivity), never through a server.
+The iPhone and the Apple Watch exchange your workouts, your profile and the timer of the workout in progress directly with each other (Apple’s WatchConnectivity), never through a server.
 
 Health data is never sent to the developer or to any server, and is never used for advertising or shared with third parties. You can turn the option off at any time, and manage or delete this data in the Health app.
 

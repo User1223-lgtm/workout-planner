@@ -103,7 +103,7 @@ The 3-2-1 countdown stays in beeps (a voice would be late). The voice speaks ove
 
 ## With an Apple Watch
 
-With [Workout Planner Pro](pro.html), start a workout on your iPhone with your Apple Watch on your wrist: Workout Planner opens by itself on the Watch, shows the same timer, controls the iPhone (pause, previous, next, end) and measures your heart rate. See [Apple Watch](apple-watch.html#use-the-watch-with-the-iphone-timer).
+With [Workout Planner Pro](pro.html), start a workout on your iPhone with your Apple Watch on your wrist: Workout Planner opens by itself on the Watch, shows the same timer (locked until the end) and measures your heart rate. A workout started on the Watch locks the iPhone the same way. See [Apple Watch](apple-watch.html#one-workout-at-a-time).
 
 ## Lock Screen, Dynamic Island and background
 

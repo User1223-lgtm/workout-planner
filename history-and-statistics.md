@@ -118,7 +118,7 @@ Each card shows the goal (*3 workouts*), its period in a small label at the top 
 
 Goals don't record anything new: the progress is counted from your **completed workouts** (the same data as the calendar and the statistics), for the **current** week (Monday to Sunday or Sunday to Saturday, as set on your device), month or year, or between the custom dates. A weekly, monthly or yearly goal starts again at 0 at the start of each new period. If you delete workouts from the history, the progress goes down too.
 
-The **Goals** widget shows the same progress bars on your Home Screen and Lock Screen, and your Apple Watch shows them too, in the app and on the watch face. See [Widgets](widgets.html#goals) and [Apple Watch](apple-watch.html).
+The **Goals** widget shows the same progress bars on your Home Screen and Lock Screen. See [Widgets](widgets.html#goals).
 
 Goals also send [reminders](notifications.html#goal-reminders) with the time left.
 
