@@ -91,8 +91,8 @@ The total of the period is shown at the top right of each chart.
 Each card shows the goal (*3 workouts*), its period in a small label at the top right (*This Week*, or *01/12/2026 – 15/01/2027* for custom dates), a **progress bar** and the progress (*2 / 3*). When the goal is reached, the bar and the numbers turn green with a check.
 
 - **Add a goal**: tap **+** at the top right (or **Add a Goal** when the list is empty), choose what to count, the period (**Week**, **Month**, **Year** or **Custom**) and the number, then tap **Add**. The number is chosen with **wheels**, to the unit: 1 to 999 workouts, 1 to 9,999 exercises, or hours and minutes of training.
-- **Custom** shows **From** and **To**: the goal counts the workouts completed between these two days, both included. After the last day, the card keeps its final result and gets a special look: **Completed** with a trophy, a green frame and a little animation if the goal was reached, or **Ended**, faded, if it wasn't. The dates stay under the title.
-- **Edit a goal**: tap its card. **Delete** it from the editor, or touch and hold the card › **Delete Goal**.
+- **Custom** shows **From** and **To**: the goal counts the workouts completed between these two days, both included. When the last day is over, the card keeps the same layout and its dates, but turns **green** with **Completed** if the goal was reached, or **red** with **Failed** if it wasn't.
+- **Delete a goal**: touch and hold its card › **Delete Goal**. A goal can't be changed: to change one, delete it and add a new one.
 - You can have as many goals as you want, for example a weekly one and a yearly one.
 
 Goals don't record anything new: the progress is counted from your **completed workouts** (the same data as the calendar and the statistics), for the **current** week (Monday to Sunday or Sunday to Saturday, as set on your device), month or year, or between the custom dates. A weekly, monthly or yearly goal starts again at 0 at the start of each new period. If you delete workouts from the history, the progress goes down too.
