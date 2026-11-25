@@ -19,7 +19,7 @@ On this page
 
 The Apple Watch app comes with Workout Planner: if your Apple Watch is paired with your iPhone, it installs by itself (or open the **Watch** app on your iPhone, find **Workout Planner** and tap **Install**).
 
-- The Watch app is part of **[Workout Planner Pro](pro.html)**. Without Pro, it shows the Pro screen: subscribe right on the Watch (**Pro Yearly** or **Pro Monthly**, confirmed by double-clicking the side button), tap **Restore Purchases**, or subscribe in the app on your iPhone. Pro is linked to your Apple Account: bought on the Watch, it's also active on your iPhone, and the other way around.
+- The Watch app is part of **[Workout Planner Pro](pro.html)**. Without Pro, it shows the Pro screen: subscribe right on the Watch (**Pro Yearly** or **Pro Monthly**, with the [7-day free trial](pro.html#7-day-free-trial) if you can still get it, confirmed by double-clicking the side button), tap **Restore Purchases**, or subscribe in the app on your iPhone. Pro is linked to your Apple Account: bought on the Watch, it's also active on your iPhone, and the other way around.
 - Everything comes from your iPhone: open Workout Planner on your iPhone once, and your workouts appear on the Watch. They stay there, even when the iPhone isn't nearby, and are updated each time something changes on the iPhone.
 - The first time you start a workout on the Watch, it asks to read your **heart rate** (and to save workouts in Health). Allow it to see your heart rate and calories.
 
@@ -50,8 +50,10 @@ At the end, the Watch shows **Workout Complete** with the time, the exercises, t
 
 A workout runs on one device at a time, and the other one is **locked** until it ends.
 
-- **Started on the Watch**: your iPhone shows *Workout on Apple Watch*, the current step and its countdown. The app can't be used, and no other workout can start, until you finish or end the workout on the Watch.
-- **Started on the iPhone** with your Apple Watch on your wrist: Workout Planner opens by itself on the Watch and shows the same timer (with a small iPhone icon), without buttons. Pause, skip or end the workout on the iPhone. The Watch measures your **heart rate**; the iPhone shows it live under the progress bar, with the calories, and saves them with the workout. The Watch taps at each step change; the voice coach speaks on the iPhone.
+Both devices show the same lock screen: the device playing the workout (*Workout on Apple Watch* or *Workout on iPhone*), the name of the workout, the current step and its countdown, *Step 3 of 12* (or *Paused*), and *Finish or end it on your … to use the app*. Nothing else can be used, and no other workout can start, until the workout ends.
+
+- **Started on the Watch** (from your list of workouts, the only way to start one on the Watch): your iPhone is locked.
+- **Started on the iPhone** with your Apple Watch on your wrist: Workout Planner opens by itself on the Watch, which is locked. Pause, skip or end the workout on the iPhone. Meanwhile, the Watch measures your **heart rate**: the iPhone shows it live under the progress bar, with the calories, and saves them with the workout. The Watch taps at each step change; the voice coach speaks on the iPhone.
 - If the device playing the workout stops answering (app closed, empty battery), the other one unlocks by itself a few minutes after the expected end.
 
 ## Heart rate and calories

@@ -39,7 +39,14 @@ Without Pro, Pro actions are shown with a **gold crown**. Tapping one opens the 
 | **Pro Yearly** | Once a year | €14.99/year |
 | **Pro Monthly** | Every month | €3.99/month |
 
-Both plans unlock exactly the same features. Prices depend on your country and are always shown in your currency on the Pro screen before you subscribe. There is no free trial.
+Both plans unlock exactly the same features. Prices depend on your country and are always shown in your currency on the Pro screen before you subscribe.
+
+### 7-day free trial
+
+The first time you subscribe, either plan starts with **7 days free**. It's Apple's free trial: you get it once per Apple Account, and the Pro screen shows it only if you can still get it.
+
+- Nothing is charged during the 7 days. Then the plan you chose starts and is charged, unless you cancel at least 24 hours before the end of the trial.
+- To cancel during the trial: **Settings › Manage Subscription**. Pro stays active until the end of the 7 days.
 
 Subscriptions **renew automatically** until you cancel them. Payment is charged to your Apple Account and handled entirely by Apple.
 
@@ -47,7 +54,7 @@ Subscriptions **renew automatically** until you cancel them. Payment is charged 
 
 1. Open the Pro screen: **Settings › Unlock Workout Planner Pro**, or tap any Pro action with a crown. (The screen is also shown once, at the first launch.) You can also subscribe on your [Apple Watch](apple-watch.html#get-the-app), from the Workout Planner app.
 2. Choose **Pro Yearly** or **Pro Monthly**.
-3. Tap **Subscribe** and confirm with Face ID, Touch ID or your password.
+3. Tap the button under the plans (it offers the free trial when you can get it) and confirm with Face ID, Touch ID or your password.
 
 Pro is active immediately. **Settings** then shows **Workout Planner Pro Unlocked**.
 
