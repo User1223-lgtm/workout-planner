@@ -48,6 +48,8 @@ The first time you subscribe, either plan starts with **7 days free**. It's Appl
 - Nothing is charged during the 7 days. Then the plan you chose starts and is charged, unless you cancel at least 24 hours before the end of the trial.
 - To cancel during the trial: **Settings › Manage Subscription**. Pro stays active until the end of the 7 days.
 
+**Former subscribers**: if you already used the trial, Apple may offer you **7 days free to come back** when your last paid subscription (of at least 1 month) ended between 1 and 24 months ago. The offer shows on the Pro screen and on the App Store, at most once every 12 months.
+
 Subscriptions **renew automatically** until you cancel them. Payment is charged to your Apple Account and handled entirely by Apple.
 
 ## Subscribe

@@ -164,7 +164,7 @@ Yes, with the same Apple Account. Use **Restore Purchases** on the second device
 Refunds are handled by Apple: [reportaproblem.apple.com](https://reportaproblem.apple.com).
 
 ### Is there a free trial?
-Yes: the first time you subscribe, Pro Yearly and Pro Monthly start with **7 days free** (once per Apple Account). Cancel at least 24 hours before the end of the trial and nothing is charged. See [Free trial](pro.html#7-day-free-trial).
+Yes: the first time you subscribe, Pro Yearly and Pro Monthly start with **7 days free** (once per Apple Account). Cancel at least 24 hours before the end of the trial and nothing is charged. Former subscribers can get 7 days free again to come back (between 1 and 24 months after their subscription ended, at most once a year). See [Free trial](pro.html#7-day-free-trial).
 
 ### Is Pro shared with my family?
 No, Family Sharing isn't available for Workout Planner Pro.
