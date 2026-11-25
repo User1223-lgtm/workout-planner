@@ -48,17 +48,17 @@ At the end, the Watch shows **Workout Complete** with the time, the exercises, t
 
 ## One workout at a time
 
-A workout runs on one device at a time, and the other one is **locked** until it ends.
-
-Both devices show the same lock screen: the device playing the workout (*Workout on Apple Watch* or *Workout on iPhone*), the name of the workout, the current step and its countdown, *Step 3 of 12* (or *Paused*), and *Finish or end it on your … to use the app*. Nothing else can be used, and no other workout can start, until the workout ends.
+A workout always runs on the device where you started it, and the other one is **locked** until it ends:
 
 - **Started on the Watch** (from your list of workouts, the only way to start one on the Watch): your iPhone is locked.
-- **Started on the iPhone** with your Apple Watch on your wrist: Workout Planner opens by itself on the Watch, which is locked. Pause, skip or end the workout on the iPhone. Meanwhile, the Watch measures your **heart rate**: the iPhone shows it live under the progress bar, with the calories, and saves them with the workout. The Watch taps at each step change; the voice coach speaks on the iPhone.
+- **Started on the iPhone**: the Watch app is locked. Pause, skip or end the workout on the iPhone.
+
+Both devices show the same lock screen: the device playing the workout (*Workout on Apple Watch* or *Workout on iPhone*), the name of the workout, the current step and its countdown, *Step 3 of 12* (or *Paused*), and *End it on your …*. Nothing else can be used, and no other workout can start, until the workout ends.
 - If the device playing the workout stops answering (app closed, empty battery), the other one unlocks by itself a few minutes after the expected end.
 
 ## Heart rate and calories
 
-The heart rate is measured only by the Apple Watch, during a workout played on the Watch, or played on the iPhone with the Watch on your wrist. The calories are **calculated from this heart rate and from your profile**, at the end of the workout, and only if **Me › Profile** is completely filled in. See [Heart rate and calories](history-and-statistics.html#heart-rate-and-calories).
+The heart rate is measured only during a workout played on the Watch. The calories are **calculated from this heart rate and from your profile**, at the end of the workout, and only if **Me › Profile** is completely filled in. See [Heart rate and calories](history-and-statistics.html#heart-rate-and-calories).
 
 ## Watch face complication
 

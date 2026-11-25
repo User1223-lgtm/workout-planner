@@ -139,7 +139,7 @@ The **BMI** is shown when the height and the weight are filled in. To empty the 
 
 ## Heart rate and calories
 
-**The heart rate** is recorded only when a workout is measured by an [Apple Watch](apple-watch.html) (Pro): a workout played on the Watch, or started on the iPhone with the Watch on your wrist. Every measure is kept, for the chart of the workout. Workouts done on the iPhone or the iPad alone have no heart rate.
+**The heart rate** is recorded only when a workout is measured by an [Apple Watch](apple-watch.html) (Pro): a workout played on the Watch. Every measure is kept, for the chart of the workout. Workouts done on the iPhone or the iPad alone have no heart rate.
 
 **The calories** are calculated by the app, once, at the end of the workout, from:
 

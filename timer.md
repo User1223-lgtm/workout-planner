@@ -33,7 +33,7 @@ A workout that lasts 0 seconds can't be started (the button is greyed out).
 From top to bottom:
 
 1. **✕** to end the workout, the **workout name**, **Step 2 of 24**, and the **total time left** for the whole workout.
-2. A **progress bar** for the whole workout. Under it, when your [Apple Watch](apple-watch.html) measures the workout: your **heart rate** (♥ BPM) and your **calories** (when Me › Profile is complete).
+2. A **progress bar** for the whole workout.
 3. The **rounds** you are in, when the workout has groups: one orange chip per group, from the outermost to the innermost (*Intervals 3/10*).
 4. The **kind of step** (<span class="badge prepare">GET READY</span> <span class="badge exercise">EXERCISE</span> <span class="badge rest">REST</span>) and its **name**.
 5. The **ring** and the **countdown** of the current step. The ring empties as time passes.
@@ -103,7 +103,7 @@ The 3-2-1 countdown stays in beeps (a voice would be late). The voice speaks ove
 
 ## With an Apple Watch
 
-With [Workout Planner Pro](pro.html), start a workout on your iPhone with your Apple Watch on your wrist: Workout Planner opens by itself on the Watch, shows the same timer (locked until the end) and measures your heart rate. A workout started on the Watch locks the iPhone the same way. See [Apple Watch](apple-watch.html#one-workout-at-a-time).
+With [Workout Planner Pro](pro.html), a workout started on your iPhone locks the Workout Planner app on your Apple Watch, which shows the same timer until the end. A workout started on the Watch locks the iPhone the same way. To measure your heart rate and calories, start the workout on the Watch. See [Apple Watch](apple-watch.html#one-workout-at-a-time).
 
 ## Lock Screen, Dynamic Island and background
 
@@ -117,9 +117,8 @@ When the last step ends, the **Workout Complete!** screen shows the workout name
 
 - **Time**: the real time from start to finish, **pauses included**.
 - **Exercises**: the number of exercise steps of the workout.
-- With an Apple Watch: **Avg BPM** (average heart rate) and **kcal** (calories, when Me › Profile is complete).
 
-Tap **Done** to close it. The workout is saved in [Me › Workouts](history-and-statistics.html) with its time, exercises, heart rate and calories, and your statistics, goals and widgets are updated.
+Tap **Done** to close it. The workout is saved in [Me › Workouts](history-and-statistics.html) with its time and exercises, and your statistics, goals and widgets are updated.
 
 After your 1st, 5th and 15th completed workouts, Apple's rating window may appear over this screen to ask what you think of the app. Rating is optional: tap **Not Now** to close it. iOS decides whether it appears and shows it at most three times a year. You can rate the app at any time in **Settings › Rate on the App Store**.
 
