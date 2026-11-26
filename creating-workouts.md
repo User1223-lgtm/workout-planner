@@ -72,6 +72,8 @@ At the top:
 
 Nothing is saved until you tap **Create** or **Save**.
 
+While you type a **description**, a **✕** above the keyboard, on the right, closes the keyboard. In the name field, **Return** closes it.
+
 ## Blocks
 
 ### The three kinds of blocks

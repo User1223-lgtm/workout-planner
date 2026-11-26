@@ -34,7 +34,7 @@ Everything stays on your device: no account, no ads, no tracking.
   <a class="card" href="ai-workouts.html"><strong>AI Workouts</strong><span>Answer 7 questions and Apple Intelligence plans a workout for you.</span></a>
   <a class="card" href="timer.html"><strong>Running a Workout</strong><span>The timer screen, controls, beeps, the voice coach, the Lock Screen and the end of a workout.</span></a>
   <a class="card" href="history-and-statistics.html"><strong>History &amp; Statistics</strong><span>Calendar, workout details, charts, goals, profile, heart rate and calories.</span></a>
-  <a class="card" href="apple-watch.html"><strong>Apple Watch</strong><span>Workouts on your wrist, heart rate, calories and a watch face complication.</span></a>
+  <a class="card" href="apple-watch.html"><strong>Apple Watch</strong><span>Your workouts on your wrist, the timer with your heart rate, and the Smart Stack.</span></a>
   <a class="card" href="widgets.html"><strong>Widgets &amp; Live Activity</strong><span>Quick Start, Stats and Goals widgets, the Dynamic Island and the Lock Screen.</span></a>
   <a class="card" href="notifications.html"><strong>Notifications</strong><span>Daily reminders, goal reminders and the monthly free AI workout reminder.</span></a>
   <a class="card" href="pro.html"><strong>Workout Planner Pro</strong><span>What Pro unlocks, plans, cancelling, restoring purchases.</span></a>
@@ -60,7 +60,7 @@ Everything stays on your device: no account, no ads, no tracking.
 | **Edit** any workout (blocks, durations, groups) | – | ✓ |
 | **Import** workouts and folders from `.json` files | – | ✓ |
 | **Export** workouts and folders as `.json` files | – | ✓ |
-| **Apple Watch app**: play workouts, heart rate, calories, complication | – | ✓ |
+| **Apple Watch app**: start workouts, heart rate, Smart Stack | – | ✓ |
 
 See [Workout Planner Pro](pro.html) for the details.
 

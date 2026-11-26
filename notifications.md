@@ -23,7 +23,7 @@ On this page
 | Every day at **22:00** | *This beautiful day is coming to an end!* | *Rest well!* | Everyone |
 | The **1st of every month at 0:00** | *Your free AI workout is here!* | *With Workout Planner Pro, you get 1 free AI workout this month. Create it now!* | [Pro](pro.html) subscribers |
 
-When your first name is filled in [Me › Profile](history-and-statistics.html#profile), these three titles say it: *A beautiful day awaits you, Thomas!*, *This beautiful day is coming to an end, Thomas!*, *Your free AI workout is here, Thomas!*
+When your first name is filled in [Me › Profile](history-and-statistics.html#profile), these three titles say it: *A beautiful day awaits you, Thomas!*, *This beautiful day is coming to an end, Thomas!*, *Your free AI workout is here, Thomas!* Without a first name, the titles are exactly the ones in the table.
 
 Times follow the clock of your device (local time). The reminders are **local notifications**: they are scheduled by the app on your device, and nothing is sent to a server.
 

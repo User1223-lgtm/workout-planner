@@ -22,13 +22,13 @@ There are three ways to start a workout:
 - Open it and tap **Start Workout**.
 - In any list, **touch and hold** it and choose **Start Workout**.
 - Tap it in the [Quick Start widget](widgets.html#quick-start) on your Home Screen or Lock Screen.
-- On your [Apple Watch](apple-watch.html) (Pro): **Workouts**, then tap it.
+- On your [Apple Watch](apple-watch.html) (Pro): tap the workout, then **Start Workout**.
 
 A workout that lasts 0 seconds can't be started (the button is greyed out).
 
 ## The timer screen
 
-{% include screen.html image="timer.jpg" alt="The timer during the Easy Jog exercise" caption="An exercise in progress" class="right" %}
+{% include screen.html image="timer.jpg" alt="The timer during the Heavy Bag exercise, in the first of ten rounds" caption="An exercise in progress" class="right" %}
 
 From top to bottom:
 
@@ -103,7 +103,7 @@ The 3-2-1 countdown stays in beeps (a voice would be late). The voice speaks ove
 
 ## With an Apple Watch
 
-With [Workout Planner Pro](pro.html), a workout started on your iPhone locks the Workout Planner app on your Apple Watch, which shows the same timer until the end. A workout started on the Watch locks the iPhone the same way. To measure your heart rate and calories, start the workout on the Watch. See [Apple Watch](apple-watch.html#one-workout-at-a-time).
+With [Workout Planner Pro](pro.html), a workout started on your iPhone locks the Workout Planner app on your Apple Watch, which shows *Workout on your iPhone or iPad* until the end. A workout started on the Watch locks the iPhone the same way (*Workout on Apple Watch*). To measure your heart rate, start the workout on the Watch. See [Apple Watch](apple-watch.html#one-workout-at-a-time).
 
 ## Lock Screen, Dynamic Island and background
 

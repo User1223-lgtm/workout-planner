@@ -26,7 +26,7 @@ On this page
 | **Import workouts and folders** | ⋯ › Import Data | – |
 | **Export workouts and folders** | Export Workout / Export Folder / Export Data | – |
 | **1 free AI workout every month** | ⋯ › Create a Workout › With AI | Each AI workout is bought separately |
-| **Apple Watch app**, with heart rate and calories | Your Apple Watch | The Watch app shows the Pro screen |
+| **Apple Watch app**, with heart rate | Your Apple Watch | The Watch app asks you to subscribe on your iPhone or iPad |
 
 Everything else is free: templates, the timer and its voice coach, folders, search, history, statistics, goals, your profile, sharing your stats, widgets, the Live Activity, notifications and Apple Health.
 
@@ -54,11 +54,13 @@ Subscriptions **renew automatically** until you cancel them. Payment is charged 
 
 ## Subscribe
 
-1. Open the Pro screen: **Settings › Unlock Workout Planner Pro**, or tap any Pro action with a crown. (The screen is also shown once, at the first launch.) You can also subscribe on your [Apple Watch](apple-watch.html#get-the-app), from the Workout Planner app.
+1. Open the Pro screen: **Settings › Unlock Workout Planner Pro**, or tap any Pro action with a crown. (The screen is also shown once, at the first launch.)
 2. Choose **Pro Yearly** or **Pro Monthly**.
 3. Tap the button under the plans (it offers the free trial when you can get it) and confirm with Face ID, Touch ID or your password.
 
-Pro is active immediately. **Settings** then shows **Workout Planner Pro Unlocked**.
+Pro is active immediately, on your iPhone, your iPad and your [Apple Watch](apple-watch.html). **Settings** then shows **Workout Planner Pro Unlocked**.
+
+Pro can't be bought on the Apple Watch: subscribe on your iPhone or iPad, then open the app on the Watch again.
 
 The Pro screen also has links to the **Terms of Service** and the **Privacy Policy**, a **Restore Subscription** button, and **✕** to close it without subscribing.
 

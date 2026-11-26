@@ -39,7 +39,9 @@ The titles **Style**, **Permissions**, **Pro** and **Data** have a small grey ar
 | **Notifications** | On | Schedules the daily reminders at 7:00 and 22:00, the goal reminders, and the monthly free AI workout reminder for Pro. Off removes them. Greyed out if notifications are not allowed for the app in iOS. See [Notifications](notifications.html). |
 | **Sounds** | On | Plays the timer beeps: start of an exercise, start of a rest, halfway through each step, 3-2-1 countdown, end of the workout. Off makes the timer silent, voice included (haptics still work). See [Running a Workout](timer.html#sounds). |
 | **Voice Coach** | On | A voice announces each exercise and rest with its duration, halfway through long exercises and the end of the workout, on the iPhone and the Apple Watch. Greyed out when Sounds is off. See [Voice coach](timer.html#voice-coach). |
-| **Apple Health** | Off | Saves your completed workouts in the Health app (with heart rate and calories when your Apple Watch measured them), and keeps Health in step with your history (deleted workouts are deleted there too). Asks for the permission the first time. See [Apple Health](history-and-statistics.html#apple-health). |
+| **Apple Health** | Off | Saves your completed workouts in the Health app (a workout played on your Apple Watch is saved by the Watch, with its heart rate), and keeps Health in step with your history (deleted workouts are deleted there too). Asks for the permission the first time. Greyed out if you refused it: allow it again in the Health app (your profile picture › Apps › Workout Planner). See [Apple Health](history-and-statistics.html#apple-health). |
+
+The four options work the same way: when an option is **off**, its icon is crossed out; when iOS doesn't allow it (notifications or Health refused in the Settings app or the Health app), the option is **greyed out** and the explanation of the section says where to allow it again.
 
 ## Pro
 

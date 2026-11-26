@@ -88,7 +88,7 @@ Tap the widget to open **Me › Goals**. See [Goals](history-and-statistics.html
 
 ## Apple Watch complication
 
-On your Apple Watch, Workout Planner adds a complication to the watch face and the Smart Stack: a shortcut to the app. See [Apple Watch](apple-watch.html#watch-face-complication).
+On your Apple Watch, Workout Planner adds a complication to the watch face (a shortcut to the app), and a **Workout in Progress** card in the Smart Stack during a workout played on the Watch. See [Apple Watch](apple-watch.html#smart-stack).
 
 ## When widgets update
 
@@ -113,6 +113,8 @@ Two buttons control the timer without opening the app:
 | **Next** | Skips to the next step |
 
 The countdown updates by itself, even when the app is in the background. The Live Activity ends when you close the timer.
+
+With an Apple Watch, the Live Activity also appears on your Watch, like those of other apps. A workout played on the Watch has its own **Workout in Progress** card in the Smart Stack instead: see [Apple Watch](apple-watch.html#smart-stack).
 
 <blockquote class="tip" markdown="1">
 

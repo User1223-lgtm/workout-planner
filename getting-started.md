@@ -49,7 +49,7 @@ The tab bar floats at the bottom of the screen. It slides away while you scroll 
 | Tab | What you find there |
 |---|---|
 | **My Workouts** | All your workouts, stored in folders like in the Files app. You create, organize and start workouts here. See [Organizing Workouts](organizing-workouts.html). |
-| **Me** | **Workouts**: a calendar of every workout you completed. **Data**: weekly and monthly charts, averages and totals. **Goals**: your targets with progress bars. See [History & Statistics](history-and-statistics.html). |
+| **Me** | **Workouts**: a calendar of every workout you completed. **Data**: weekly and monthly charts, averages and totals. **Goals**: your targets with progress bars. **Profile**: your first name and body measurements, for the calories and the reminders. See [History & Statistics](history-and-statistics.html). |
 | **Settings** | Appearance, notifications, sounds, Workout Planner Pro, help and legal links. See [Settings](settings.html). |
 
 Each tab keeps its place: if you open a folder in My Workouts, switch to Me and come back, you are still in that folder.

@@ -17,14 +17,14 @@ On this page
 
 ## The library
 
-{% include screen.html image="my-workouts.jpg" alt="My Workouts with 4 folders and 3 workouts" caption="The root of My Workouts" class="right" %}
+{% include screen.html image="my-workouts.jpg" alt="My Workouts with 4 folders and 2 workouts" caption="The root of My Workouts" class="right" %}
 
 The top level of the tab is called **My Workouts**. It can contain:
 
 - **Folders**, shown with a blue folder icon, their name, and the number of items they contain (`3 items`). A folder can contain other folders, with no depth limit.
 - **Workouts**, shown with their name, total duration and number of exercises (`1h · 13 exercises`).
 
-Folders are always listed **before** workouts. At the bottom of the list, a summary line counts what the current folder contains, for example `4 folders, 3 workouts`.
+Folders are always listed **before** workouts. At the bottom of the list, a summary line counts what the current folder contains, for example `4 folders, 2 workouts`.
 
 Tap a folder to open it, and use the back button (or swipe from the left edge) to go back. Tap a workout to open its [detail page](#the-workout-page).
 

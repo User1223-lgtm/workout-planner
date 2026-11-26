@@ -167,7 +167,7 @@ The export of one workout looks like this:
 
 | Key | Type | Used by | Default | Meaning |
 |---|---|---|---|---|
-| `type` | text | all | **required** | `"exercise"`, `"rest"` or `"group"`. Upper or lower case. `"loop"` is accepted as another word for `"group"`. |
+| `type` | text | all | **required** | `"exercise"`, `"rest"` or `"group"`. Upper or lower case. Any other value is refused. |
 | `name` | text | all | `""` | Name of the exercise, rest or group. An empty exercise name is allowed in files, but the editor will ask for one. |
 | `description` | text | exercise | `""` | Coaching cue shown under the name on the timer. |
 | `duration` | number | exercise, rest | `0` | Seconds. Decimals are rounded (`30.4` → `30`). Negative values become `0`. A block of 0 seconds is skipped by the timer. |

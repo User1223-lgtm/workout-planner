@@ -46,6 +46,8 @@ Workouts are placed on the day they **finished**.
 
 ### Workout details
 
+{% include screen.html image="workout-session.jpg" alt="Boxing Rounds in the history, with its heart rate chart" caption="A workout done with the Apple Watch" class="right" %}
+
 **Tap a workout** under the calendar to open its details:
 
 - its name, date and time;
@@ -97,6 +99,8 @@ The heart rate and the calories only count the workouts where they were measured
 
 ## Goals: your targets
 
+{% include screen.html image="me-goals.jpg" alt="Three goals with their progress" caption="Me › Goals" class="right" %}
+
 **Me › Goals** lists your goals as cards. A goal is a number to reach **every week, month or year**, or **between two dates** of your choice:
 
 | Count | Example |
@@ -123,6 +127,8 @@ The **Goals** widget shows the same progress bars on your Home Screen and Lock S
 Goals also send [reminders](notifications.html#goal-reminders) with the time left.
 
 ## Profile
+
+{% include screen.html image="me-profile.jpg" alt="Me › Profile filled in" caption="Me › Profile" class="right" %}
 
 **Me › Profile** keeps your characteristics, only on your device:
 
@@ -184,7 +190,7 @@ Health then always matches your history:
 
 | In Workout Planner | In the Health app |
 |---|---|
-| You complete a workout | It is added, with its start, its end and the name of the workout. A workout measured by the Apple Watch is saved by the Watch, with its heart rate and calories |
+| You complete a workout | It is added, with its start, its end and the name of the workout. A workout played on the Apple Watch is saved by the Watch, with its heart rate |
 | You turn Apple Health on | The workouts already in your history are added too |
 | You delete a workout from the history, or the whole history | It is deleted from Health too |
 | You turn Apple Health off | Nothing new is added or deleted. The workouts already in Health stay there |
@@ -192,7 +198,7 @@ Health then always matches your history:
 - The workouts appear in Health as **High Intensity Interval Training**, from the source *Workout Planner*. Their duration is the real time, pauses included.
 - The app only changes the workouts saved by Workout Planner (on the iPhone or by its Apple Watch app), never those of other apps.
 - A workout you delete yourself in the Health app is not added back.
-- If the permission was refused, the option turns itself off. Open the **Health** app, tap your profile picture, then **Apps › Workout Planner**, and turn on **Workouts**.
+- If the permission was refused, the option is greyed out. Open the **Health** app, tap your profile picture, then **Apps › Workout Planner**, and turn on **Workouts**.
 - Apple Health is available on iPhone, and on iPad with iPadOS 17 or later. It is free (no Pro needed).
 
 ## Widgets

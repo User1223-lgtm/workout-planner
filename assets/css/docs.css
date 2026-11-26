@@ -334,6 +334,9 @@ img.on-dark-site { display: none; }
 [data-theme="dark"] .screen img.on-light-site { display: none; }
 .screen figcaption { font-size: 13px; color: var(--text-soft); margin-top: 8px; }
 .screen.right { float: right; margin: 4px 0 16px 28px; }
+/* Apple Watch screenshots: smaller, with the rounded corners of the Watch display */
+.screen.watch { width: 170px; align-self: flex-start; }
+.screen.watch img { border-radius: 34px; }
 
 /* Home page */
 
@@ -446,6 +449,7 @@ img.on-dark-site { display: none; }
   h2 { font-size: 24px; }
   .screen { width: 46%; max-width: 220px; }
   .screen.right { float: none; margin: 0 auto 20px; }
+  .screen.watch { width: 40%; max-width: 170px; }
   .hero img { width: 72px; height: 72px; border-radius: 17px; }
 }
 
