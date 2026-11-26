@@ -84,7 +84,7 @@ See [History & Statistics](history-and-statistics.html#delete-your-history).
 | **Help & Support** | The [Support](support.html) page |
 | **Privacy Policy** | The [Privacy Policy](privacy.html) |
 | **Terms of Use** | Apple's standard End User License Agreement (EULA) |
-| **Version** | Shows the version and build of the app, for example *1.0 (3)*. Useful when you contact support. |
+| **Version** | Shows the version and build of the app, for example *1.1 (4)*. Useful when you contact support. |
 
 ## Where the settings are stored
 
